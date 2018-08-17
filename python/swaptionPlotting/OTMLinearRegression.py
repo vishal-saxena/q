@@ -17,8 +17,8 @@ grey_line = mpatches.Patch(color='grey', label='murex - smoothed int/ext polated
 orange_line = mpatches.Patch(color='orange', label='OLS cubic')
 yellow_line = mpatches.Patch(color='yellow', label='OLS cubic non flattened')
 green_dots = mpatches.Patch(color='green', label='Missing or < reqd. num contribs on pricing grid')
-darkmagenta_dots = mpatches.Patch(color='darkmagenta', label='delta +(cleansed) x(flattened vol)')
-cyan_dots = mpatches.Patch(color='cyan', label='vega +(cleansed) x(monotonic breach fixed)')
+darkmagenta_dots = mpatches.Patch(color='darkmagenta', label='delta +(cleansed) x(flattened) *(smoothed)')
+cyan_dots = mpatches.Patch(color='cyan', label='vega +(cleansed) x(breach fixed) *(smoothed)')
 
 pp = PdfPages('OTM-OLS_Cubic-CNN_NomuraJun12.pdf')
 
@@ -96,13 +96,15 @@ def OTMLinearRegression3(expiry, maturity, cleansed, smoothed, murex, flattened)
     # OTM smoothed
 
     otmSmoothed = smoothed.loc[(smoothed['Expiry'] == expiry) & (smoothed['Maturity'] == maturity)]
-    smileSmoothed = otmSmoothed.iloc[:, [2, 3, 4, 5, 6, 7]]
+    smileSmoothed = otmSmoothed.iloc[:, [2, 3, 4, 5, 6, 7,8,9]]
     xSmoothed = smileSmoothed["Strike"]
     ySmoothed = smileSmoothed["Vol"]
     deltas = smileSmoothed["Deltas"]
-    subsVolsDelta = smileSmoothed["SubsVolDeltas"]
+    subsVolsDeltas = smileSmoothed["SubsVolDeltas"]
     vegas = smileSmoothed["Vegas"]
     subsVolsVegas = smileSmoothed["SubsVolVegas"]
+    smoothedVolsDeltas = smileSmoothed["SmoothedVolDeltas"]
+    smoothedVolsVegas = smileSmoothed["SmoothedVolVegas"]
 
     ax.scatter(xSmoothed, ySmoothed, facecolors='none', edgecolors='Red')
 
@@ -117,11 +119,13 @@ def OTMLinearRegression3(expiry, maturity, cleansed, smoothed, murex, flattened)
     # OTM greeks used in smoothing
 
     deltaAxis.scatter(xSmoothed, deltas, c="darkmagenta", marker='+')
-    deltaAxis.scatter(xSmoothed, subsVolsDelta, c="darkmagenta", marker='x')
+    deltaAxis.scatter(xSmoothed, subsVolsDeltas, c="darkmagenta", marker='x')
+    deltaAxis.scatter(xSmoothed, smoothedVolsDeltas, c="darkmagenta", marker='*')
     deltaAxis.tick_params(axis='y', labelcolor="darkmagenta")
 
     vegaAxis.scatter(xSmoothed, vegas, c="Cyan", marker='+')
     vegaAxis.scatter(xSmoothed, subsVolsVegas, c="Cyan", marker='x')
+    vegaAxis.scatter(xSmoothed, smoothedVolsVegas, c="Cyan", marker='*')
     vegaAxis.tick_params(axis='y', labelcolor="Cyan")
 
     fig.tight_layout()
@@ -145,10 +149,10 @@ maturities = np.array(
 # [2190,2555]
                       )
 
-cleansedVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/CNNNomuraCombined_QC1592/USD_Cleansed_PricingGrid_VolCube.csv"
-smoothedVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/CNNNomuraCombined_QC1592/USD_ShapeChecked_VolCube.csv"
-murexVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/CNNNomuraCombined_QC1592/MurexCubeVolCube.csv"
-flattenedFromFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/CNNNomuraCombined_QC1592/USD_flattenedFrom.csv"
+cleansedVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/InputCleansedVolCube.csv"
+smoothedVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/USD_ShapeChecked_VolCube.csv"
+murexVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/MurexCubeVolCube.csv"
+flattenedFromFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/USD_flattenedFrom.csv"
 
 # data
 cleansed = pd.read_csv(
