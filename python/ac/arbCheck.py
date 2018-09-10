@@ -49,7 +49,7 @@ class ArbChequer(object):
             if len(fwdParRatesFile) > 0 and len(annuityFactorsFile) > 0 and len(volCubeFile) > 0:
                 self.fwdParRatesFile = fwdParRatesFile[0]
                 self.annuityFactorsFile = annuityFactorsFile[0]
-                self.volCubeFile = volCubeFile[0]
+                self.volCubeFile = volCubeFile[1]
                 finalStatus = True
             else:
                 raise NameError('File not found')
@@ -65,7 +65,8 @@ class ArbChequer(object):
 
         finalStatus = False
         try:
-            self.rawCleansedVolData = pd.read_csv(self.inputFolder + self.volCubeFile)
+            self.rawCleansedVolData = pd.read_csv(self.inputFolder + self.volCubeFile,dtype=
+                                                  {'Vol': 'float64'})
             self.expVector = np.sort(self.rawCleansedVolData['Expiry'].unique())
             self.matVector = np.sort(self.rawCleansedVolData['Maturity'].unique())
 
@@ -85,8 +86,10 @@ class ArbChequer(object):
 
             annArray = pd.melt(rawAnnuityData, id_vars=['index1'])
             annArray.columns = ['Expiry', 'Maturity', 'Annuity']
+            annArray[['Maturity']]=annArray[['Maturity']].astype('int64')
             fwdArray = pd.melt(rawFwdData, id_vars=['index1'])
             fwdArray.columns = ['Expiry', 'Maturity', 'Rate']
+            fwdArray[['Maturity']] = fwdArray[['Maturity']].astype('int64')
 
             self.rawCleansedVolData = pd.merge(self.rawCleansedVolData, annArray, how='left',
                                                left_on=['Expiry', 'Maturity'],

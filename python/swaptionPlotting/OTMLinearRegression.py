@@ -20,7 +20,7 @@ green_dots = mpatches.Patch(color='green', label='Missing or < reqd. num contrib
 darkmagenta_dots = mpatches.Patch(color='darkmagenta', label='delta +(cleansed) x(flattened) *(smoothed)')
 cyan_dots = mpatches.Patch(color='cyan', label='vega +(cleansed) x(breach fixed) *(smoothed)')
 
-pp = PdfPages('OTM-OLS_Cubic-CNN_NomuraJun12.pdf')
+pp = PdfPages('SA_Model_Visualizaton.pdf')
 
 
 def OTMLinearRegression3(expiry, maturity, cleansed, smoothed, murex, flattened):
@@ -152,7 +152,7 @@ maturities = np.array(
 cleansedVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/InputCleansedVolCube.csv"
 smoothedVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/USD_ShapeChecked_VolCube.csv"
 murexVolCubeFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/MurexCubeVolCube.csv"
-flattenedFromFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/USD_flattenedFrom.csv"
+flattenedFromFilePath = "R:/Vishal.Saxena/SMART/Swaptions/alternative/20180815/1534448384198_USD/_flattenedFrom.csv"
 
 # data
 cleansed = pd.read_csv(
