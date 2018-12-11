@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="./katex/katex.min.css">
+<link rel="stylesheet" href="./duosimplex.css">
+<script src="./katex/katex.min.js"></script>
+<script src="./katex/contrib/auto-render.min.js"></script>
+<script src="./d3/d3.js" charset="utf-8"></script>
+<h1>Simplex Duo on forward curve only</h1>
+
+<p>
+    Let \(P\) be a portfolio of swap trades with \(n\) forward deltas on \(n\) forward tenors.</p>
+
+$$\bar{\delta}^f = \delta^f_1,\ldots,\delta^f_n$$
+
+$$\bar{t}^f = t^f_1,\ldots,t^f_n$$
+
+Presuming that each hedge trade is a fixed rate payer we will have \(h\) hedge swaps with unit forward deltas below.
+
+$$\bar{\delta}^{f,1} = \delta^{f,1}_1,\ldots,\delta^{f,1}_n$$
+$$\bar{\delta}^{f,2} = \delta^{f,2}_1,\ldots,\delta^{f,2}_n$$
+$$\vdots$$
+$$\bar{\delta}^{f,h} = \delta^{f,h}_1,\ldots,\delta^{f,h}_n$$
+
+Let \(N_1,\ldots,N_h\) be the notional of each hedge swap.
+
+<p>
+    Let us choose these notionals such that the absolute notional is minimised and that the combination of the new
+    hedge swaps and the original portfolio of swap trades has an aggregated \(\delta\) that is within a certain
+    tolerated
+    range around zero which will be called \(T^f_1,\ldots,T^f_n\).
+
+<p>
+    Introduce for each hedge trade two notionals \(N^S,N^L\) which must be zero or positive and represent
+    the notional in fixed rate receiver and notional in fixed rate payer respectively.
+
+<p>
+    Now writing this as a linear programming problem in non standard form; with \({\tilde \cdot}\) indicating a variable
+    :-
+
+    $$\text{min} \sum_{i=1}^h({\tilde N}^L_i+{\tilde N}^S_i)$$
+
+    such that
+
+    $$0 \leq {\tilde N}^S_i,0 \leq {\tilde N}^L_i \quad \forall \quad i=1,\ldots,h$$
+    $$-T^f_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\delta_j^{f,i}+\delta^f_j \leq T^f_j \quad \forall \quad
+    j=1,\ldots,n$$
+
+    This problem can be solved where possible with the simplex algorithm.
+
+<h1>Addressing the fixing risk</h1>
+
+Let us assume that fixing is identified as a daily ladder of net notional being fixed on a given day in the future.
+
+That this ladder will have a time horizon \(H\) say one year. So for the portfolio \(P\) there will be \(f\) fixing days \(\phi\)
+
+$$\phi_1,\ldots,\phi_f$$
+
+with net notional \(\nu\) on each of these days
+
+$$\nu_1,\ldots,\nu_f$$
+
+and some tolerance \(\theta\) on each of these days
+
+$$\theta_1,\ldots,\theta_f$$
+
+The hedge basket will need to be enhanced to target this fixing risk.
+
+For example a selection of trades which are generated as slices of
+trades in original offset portfolio.
+
+Each hedge trade will potentially have unit fixing notional on each of these days.
+
+$$\bar{\nu}^{1} = \nu^{1}_1,\ldots,\nu^{1}_f$$
+$$\bar{\nu}^{2} = \nu^{2}_1,\ldots,\nu^{2}_f$$
+$$\vdots$$
+$$\bar{\nu}^{h} = \nu^{h}_1,\ldots,\nu^{h}_f$$
+
+and we want the contraints
+
+$$-\theta_j\leq\sum_{i=1}^l({\tilde N}^L_i-{\tilde N}^S_i)\nu_j^{i}+\nu_j \leq \theta_j \quad \forall \quad j=1,\ldots,f$$
+
+to hold.
+
+<p>
+    Now enhancing the simplex phase with these additional constraints. We have the linear problem :-
+
+    $$\text{min} \sum_{i=1}^h({\tilde N}^L_i+{\tilde N}^S_i)$$
+
+    such that
+
+    $$0 \leq {\tilde N}^S_i,0 \leq {\tilde N}^L_i \quad \forall \quad i=1,\ldots,h$$
+    $$-T^f_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\delta_j^{f,i}+\delta^f_j \leq T^f_j \quad \forall \quad
+    j=1,\ldots,n$$
+    $$-\theta_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\nu_j^{i}+\nu_j \leq \theta_j \quad \forall \quad
+    j=1,\ldots,f$$
+
+
+    This problem can be solved where possible with the simplex algorithm.
+
+<h1>Solving for the fixed rates</h1>
+
+<p>
+    The simplex phase will have solved for the notional required in each hedge trade.
+
+<p>
+    It is a fact that any linear program that is not infeasible or unbounded has an optimal
+    solution. This solution will have at most \(n\) non zero values where \(n\) is the number of constraints.
+    Thus the simplex phase will generate at most \(n\) hedge trades.
+
+<p> Let assumes that we have a set of NPV ladders bucketed to the forward tenors
+    for the portfolio \(P\).
+
+    $$\bar{V}^P = V^P_1,\ldots,V^P_t$$
+
+    and for the fixed leg (with par fixed rate) and floating leg of each active hedge trade with notional calculated
+    in the first phase.
+
+<div id="wrapper">
+    <div id="leftcolumn">
+        $$\bar{V}^{FIX,1} = V^{FIX,1}_1,\ldots,V^{FIX,1}_t$$
+        $$\vdots$$
+        $$\bar{V}^{FIX,n} = V^{FIX,n}_1,\ldots,V^{FIX,n}_t$$
+    </div>
+    <div id="rightcolumn">
+        $$\bar{V}^{FLOAT,1} = V^{FLOAT,1}_1,\ldots,V^{FLOAT,1}_t$$
+        $$\vdots$$
+        $$\bar{V}^{FLOAT,n} = V^{FLOAT,n}_1,\ldots,V^{FLOAT,n}_t$$
+    </div>
+</div>
+
+as well as the par rate for each active hedge trade
+
+$$\bar{R}^{PAR} = R^{PAR}_1,\ldots,R^{PAR}_n$$
+
+Now solve the matrix equation for \({\tilde R}\)
+
+$$ \sum_{i=1}^n {{{\tilde R}_i} \over {R^{PAR}_i}} V^{FIX,i}_j = V^P_j + \sum_{i=1}^n V^{FLOAT,i}_j \quad \forall \quad
+j=1,\ldots,t $$
+
+Where there are more hedge trades than tenors (which can happen in the case where we are addressing fixing risk),
+we must solve for the t sized subet of the n hedge trades and set the remainder to the orginal par rate.
+
+<h1>Solving Bucketed NPV</h1>
+
+Starting with the linear problem :-
+
+$$\text{min} \sum_{i=1}^h({\tilde N}^L_i+{\tilde N}^S_i)$$
+
+With Constraints
+$$0 \leq {\tilde N}^S_i,0 \leq {\tilde N}^L_i \quad \forall \quad i=1,\ldots,h$$
+
+Forward Curve Constraints
+$$-T^f_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\delta_j^{f,i}+\delta^f_j \leq T^f_j \quad \forall \quad
+j=1,\ldots,n$$
+
+Fixing Notional Constraints
+$$-\theta_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\nu_j^{i}+\nu_j \leq \theta_j \quad \forall \quad
+j=1,\ldots,f$$
+
+we now want to add the constraint for the bucketed NPV rewriting this in term of unit bucketed npv where
+
+$$ V^{FIX,i}_j = U^{FIX,i}_j ({\tilde N}^L_i-{\tilde N}^S_i) $$
+$$ V^{FLOAT,i}_j = U^{FLOAT,i}_j ({\tilde N}^L_i-{\tilde N}^S_i) $$
+
+gives
+
+$$ \sum_{i=1}^n {{U^{FIX,i}_j} \over {R^{PAR}_i}}  ({\tilde R}^L_i{\tilde N}^L_i-{\tilde R}^S_i{\tilde N}^S_i)  = V^P_j + \sum_{i=1}^n U^{FLOAT,i}_j ({\tilde N}^L_i-{\tilde N}^S_i) \quad \forall \quad
+j=1,\ldots,t $$
+
+this is not linear in the variable \({\tilde R}^L_i\),  \({\tilde R}^L_i\),  \({\tilde N}^L_i\) and  \({\tilde N}^S_i\) so we introduce a new variables
+
+$$ {\tilde Y}^L_i = {\tilde R}^L_i {\tilde N}^L_i \quad \forall \quad i=1,\ldots,h$$
+$$ {\tilde Y}^S_i = {\tilde R}^S_i {\tilde N}^S_i \quad \forall \quad i=1,\ldots,h$$
+
+which gives
+
+$$ \sum_{i=1}^n {{U^{FIX,i}_j} \over {R^{PAR}_i}}({\tilde Y}^L_i - {\tilde Y}^S_i)  - \sum_{i=1}^n U^{FLOAT,i}_j ({\tilde N}^L_i-{\tilde N}^S_i)= V^P_j  \quad \forall \quad
+j=1,\ldots,t $$
+
+which is linear in \({\tilde Y}^L_i\),  \({\tilde Y}^S_i\),  \({\tilde N}^L_i\) and  \({\tilde N}^S_i\)
+
+which finally gives us
+
+$$\text{min} \sum_{i=1}^h({\tilde N}^L_i+{\tilde N}^S_i)$$
+
+With Constraints
+$$0 \leq {\tilde N}^S_i,0 \leq {\tilde N}^L_i, -\infty \leq{\tilde Y}^L_i,{\tilde Y}^S_i \leq \infty \quad \forall \quad i=1,\ldots,h$$
+
+Foward Curve Constraints
+$$-T^f_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\delta_j^{f,i}+\delta^f_j \leq T^f_j \quad \forall \quad
+j=1,\ldots,n$$
+
+Fixing Notional Constraints
+$$-\theta_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\nu_j^{i}+\nu_j \leq \theta_j \quad \forall \quad
+j=1,\ldots,f$$
+
+Bucketed NPV Constraints
+
+$$ \sum_{i=1}^n {{U^{FIX,i}_j} \over {R^{PAR}_i}}({\tilde Y}^L_i - {\tilde Y}^S_i)  - \sum_{i=1}^n U^{FLOAT,i}_j ({\tilde N}^L_i-{\tilde N}^S_i)= V^P_j  \quad \forall \quad
+j=1,\ldots,n $$
+
+Note this formulation has a problem as fixed rate is not forced to zero when the notional of the trade is at zero.
+The next formulation solves this issue.
+
+<h1>Fixed Rate in Range</h1>
+
+Let us know asumme we wish to contrain the fixed rate of each hedge trade to be within a fixed range.
+
+$$ F^{MIN}_i \leq {\tilde R}^L_i \leq  F^{MAX}_i  \quad \forall \quad i=1,\ldots,h $$
+$$ F^{MIN}_i \leq {\tilde R}^S_i \leq  F^{MAX}_i  \quad \forall \quad i=1,\ldots,h $$
+
+Writing in terms of \({\tilde Y}^L_i\), \({\tilde Y}^S_i\)
+
+$$ F^{MIN}_i{\tilde N}^L_i \leq {\tilde Y}^L_i \leq  F^{MAX}_i{\tilde N}^L_i  \quad \forall \quad i=1,\ldots,h $$
+$$ F^{MIN}_i{\tilde N}^S_i \leq {\tilde Y}^S_i \leq  F^{MAX}_i{\tilde N}^S_i  \quad \forall \quad i=1,\ldots,h $$
+
+resulting in the full problem
+
+$$\text{min} \sum_{i=1}^h({\tilde N}^L_i+{\tilde N}^S_i)$$
+
+With Constraints
+$$0 \leq {\tilde N}^S_i,0 \leq {\tilde N}^L_i, -\infty \leq{\tilde Y}^L_i, {\tilde Y}^S_i  \leq \infty \quad \forall \quad i=1,\ldots,h$$
+
+Foward Curve Constraints
+$$-T^f_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\delta_j^{f,i}+\delta^f_j \leq T^f_j \quad \forall \quad
+j=1,\ldots,n$$
+
+Fixing Notional Constraints
+$$-\theta_j\leq\sum_{i=1}^h({\tilde N}^L_i-{\tilde N}^S_i)\nu_j^{i}+\nu_j \leq \theta_j \quad \forall \quad
+j=1,\ldots,f$$
+
+Bucketed NPV Constraints
+
+$$ \sum_{i=1}^n {{U^{FIX,i}_j} \over {R^{PAR}_i}}({\tilde Y}^L_i - {\tilde Y}^S_i)  - \sum_{i=1}^n U^{FLOAT,i}_j ({\tilde N}^L_i-{\tilde N}^S_i)= V^P_j  \quad \forall \quad
+j=1,\ldots,t $$
+
+Fixed Rate Range
+
+$$ F^{MIN}_i{\tilde N}^L_i \leq {\tilde Y}^L_i \leq  F^{MAX}_i{\tilde N}^L_i  \quad \forall \quad i=1,\ldots,h $$
+$$ F^{MIN}_i{\tilde N}^S_i \leq {\tilde Y}^S_i \leq  F^{MAX}_i{\tilde N}^S_i  \quad \forall \quad i=1,\ldots,h $$
+
+<div id="svg"></div>
+
+<script>
+
+
+    var margin = {top: 100, right: 100, bottom: 100, left: 100},
+            width = 700 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+    var x, y;
+
+    var color = d3.scale.category10();
+
+    var svg = d3.select("#svg").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    var symbols;
+
+    // A line generator, for the dark stroke.
+    var line = d3.svg.line()
+            .interpolate("cardinal")
+            .x(function (d) {
+                return x(d.date);
+            })
+            .y(function (d) {
+                return y(d.price);
+            });
+
+    // A area generator, for the dark stroke.
+    var area = d3.svg.area()
+            .interpolate("cardinal")
+            .x(function (d) {
+                return x(d.date);
+            })
+            .y0(height)
+            .y1(function (d) {
+                return y(d.price);
+            });
+
+
+    d3.csv("./stocks.csv", function (data) {
+        var parse = d3.time.format("%d-%m-%Y").parse;
+
+        // Nest stock values by symbol.
+        symbols = d3.nest()
+                .key(function (d) {
+                    d.price = d.Original;
+                    return d.Curve + " Original";
+                })
+                .entries(stocks = data);
+
+        // Parse dates and numbers. We assume values are sorted by date.
+        // Also compute the maximum price per symbol, needed for the y-domain.
+        symbols.forEach(function (s) {
+            s.values.forEach(function (d) {
+                d.date = parse(d.Maturity).getTime() / 3.154e+10 - 46;
+                d.price = +d.price;
+            });
+            s.minPrice = d3.min(s.values, function (d) {
+                return d.price;
+            });
+            s.maxPrice = d3.max(s.values, function (d) {
+                return d.price;
+            });
+            s.sumPrice = d3.sum(s.values, function (d) {
+                return d.price;
+            });
+        });
+
+        // Sort by maximum price, descending.
+        symbols.sort(function (a, b) {
+            return b.maxPrice - a.maxPrice;
+        });
+
+        var g = svg.selectAll("g")
+                .data(symbols)
+                .enter().append("g")
+                .attr("class", "symbol");
+
+        lines();
+    });
+
+    var color = d3.scale.ordinal()
+            .range(["blue", "red"]);
+
+    function lines() {
+        x = d3.scale.log().base(10).domain([
+            d3.min(symbols, function (d) {
+                return d.values[0].date;
+            }),
+            d3.max(symbols, function (d) {
+                return d.values[d.values.length - 1].date;
+            })
+        ]).range([0, width]);
+        y = d3.scale.linear().range([height, 0]);
+
+        //x.nice();
+
+        y.domain([
+            d3.min(symbols, function (d) {
+                return d.values[0].price;
+            }),
+            d3.max(symbols, function (d) {
+                return d.values[d.values.length - 1].price;
+            })
+        ]);
+
+        var g = svg.selectAll(".symbol");
+
+        var i = 0;
+        g.each(function (d) {
+            var e = d3.select(this);
+            y.domain([d.minPrice, d.maxPrice]);
+            y.nice();
+
+            e.append("path")
+                    .attr("class", "line")
+                    .attr("d", function (d) {
+                        return line(d.values);
+                    })
+                    .style("stroke", function (d) {
+                        return color(i);
+                    });
+
+            e.selectAll(".point")
+                    .data(d.values)
+                    .enter()
+                    .append("svg:circle")
+                    .attr("stroke", "black")
+                    .attr("fill", function (d, i) {
+                        return "black"
+                    })
+                    .attr("cx", function (d, i) {
+                        return x(d.date)
+                    })
+                    .attr("cy", function (d, i) {
+                        if (isNaN(d.price))
+                            return y(0);
+                        return y(d.price)
+                    })
+                    .attr("r", function (d, i) {
+                        return 2
+                    });
+
+            var a;
+            if (i == 0) {
+                a = svg.append("g")
+                        .attr("class", "axis")
+                        .attr("transform", "translate(" + width + ",0)")
+                        .call(d3.svg.axis()
+                                .scale(y)
+                                .orient("right")
+                                .ticks(10));
+
+                a.select("path").style({
+                    fill: 'none',
+                    stroke: color(i),
+                    'shape-rendering': 'crispEdges'
+                });
+
+                a.selectAll("g.tick line").style({
+                    fill: 'none',
+                    stroke: color(i),
+                    'shape-rendering': 'crispEdges'
+                });
+
+                a.selectAll("g.tick text").style({
+                    fill: color(i)
+                });
+            }
+            if (i == 1) {
+                a = svg.append("g")
+                        .attr("class", "axis")
+                        .attr("transform", "translate(" + 0 + ",0)")
+                        .call(d3.svg.axis()
+                                .scale(y)
+                                .orient("left")
+                                .ticks(10));
+
+                a.selectAll("path").style({
+                    fill: 'none',
+                    stroke: color(i),
+                    'shape-rendering': 'crispEdges'
+                });
+
+                a.selectAll("g.tick line").style({
+                    fill: 'none',
+                    stroke: color(i),
+                    'shape-rendering': 'crispEdges'
+                });
+
+                a.selectAll("g.tick text").style({
+                    fill: color(i)
+                });
+
+            }
+
+
+            i++;
+        });
+        svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.svg.axis().scale(x).ticks(10)
+                        .tickFormat(function (d) {
+                            return "" + Math.round((d + 46 + 1970 - 2000) * 10) / 10;
+                        }));
+
+        var axisLabelX = -60;
+        var axisLabelY = height / 2;
+
+        svg.append('g')
+                .attr('transform', 'translate(' + axisLabelX + ', ' + axisLabelY + ')')
+                .append('text')
+                .attr('text-anchor', 'middle')
+                .attr('transform', 'rotate(-90)')
+                .text('Forward Curve Delta')
+        ;
+    }
+</script>
+
+<script>
+    renderMathInElement(document.body);
+</script>
+
+

@@ -1,0 +1,3713 @@
+ 'christian.czichy@aareal-bank.com'; 
+
+  'iris.ziegler@aareal-bank.com'; 
+
+  'daniel.adam@aareal-bank.com'; 
+
+  'ewa.koziarska-schneider@aareal-bank.com'; 
+
+  'jens.herkommer@aareal-bank.com'; 
+
+  'jan.winkler@aareal-bank.com'; 
+
+  'gustaf.rundlof@sek.se'; 
+
+  'jonathan.stares@santandergbm.com'; 
+
+  'francois.cote@santandergbm.com'; 
+
+  'juanantonio.garcialuque@santandergcb.com'; 
+
+  'simon.wickins@santandergcb.com'; 
+
+  'erwin.faas@nl.abnamro.com'; 
+
+  'mariya.dinkova@nl.abnamro.com'; 
+
+  'debby.broos@nl.abnamro.com'; 
+
+  'chris.jermy@uk.abnamroclearing.com'; 
+
+  'hansgerd.bramann@de.abnamroclearing.com'; 
+
+  'bethany.cutbush@uk.abnamroclearing.com'; 
+
+  'paul.tucker@uk.abnamroclearing.com'; 
+
+  'jurjen.meijer@nl.abnamro.com'; 
+
+  'nicholas.volpe@adia.ae'; 
+
+  'craig.coles@acc.co.nz'; 
+
+  'erik-jan.van.dijk@achmea.nl'; 
+
+  'alla.van.aalst-okoulevitch@achmea.nl'; 
+
+  'andrew.m.van.eesteren@achmea.nl'; 
+
+  'andrew.van.eesteren@achmea.nl'; 
+
+  'lucas.bouwhuis@achmea.nl'; 
+
+  'gstavrev@adgholdings.co.uk'; 
+
+  'swickham@adgtraders.com'; 
+
+  'dmilner@aegon.nl'; 
+
+  'imenezes@aegon.nl'; 
+
+  'eric.vanbeek@aegon.com'; 
+
+  'lzwikker@aegon.nl'; 
+
+  'ujaved@aegon.nl'; 
+
+  'bseeman@aegonusa.com'; 
+
+  'tim.ward@uk.abnamroclearing.com'; 
+
+  'abdul.nas@man.com'; 
+
+  'chris.dickinson@aig.com'; 
+
+  'regina.milanov@aig.com'; 
+
+  'simon.cooney@aig.com'; 
+
+  'jennifer.nicholson@aig.com'; 
+
+  'joseph.karczewski@aig.com'; 
+
+  'paul.genereux@aig.com'; 
+
+  'cmenassa@acpension.com'; 
+
+  'ebrunet@acpension.com'; 
+
+  'pduplessis@acpension.com'; 
+
+  'patrick.vanbeek@aviva.com'; 
+
+  'kevin.popik@aimco.alberta.ca'; 
+
+  'gerhard.odaker@sparkasse-ooe.at'; 
+
+  'john.lin1@alliancebernstein.com'; 
+
+  'stephanie.morfoisse@allianz.fr'; 
+
+  'tobias.windecker@allianzigi.com'; 
+
+  'sean.c.callanan@aib.ie'; 
+
+  'frank.p.mcardle@aib.ie'; 
+
+  'ivan.chia@adyne.com'; 
+
+  'keiju.shimizu@adyne.com'; 
+
+  'vyacheslav.rudakovskiy@adyne.com'; 
+
+  'zain.sharif@adyne.com'; 
+
+  'claire.marie@alpstonecapital.com'; 
+
+  'cedric.petros@alpstonecapital.com'; 
+
+  'cedric.petros@alpstonecaptal.com'; 
+
+  'bradley.j.bretl@ampf.com'; 
+
+  'antonie.van.leeuwen@asr.nl'; 
+
+  'glenn_bax@amp.com.au'; 
+
+  'bryan.baker@ampcapital.com'; 
+
+  'nithya.ganesan@ampcapital.com'; 
+
+  'joanne.laguna@ampcapital.com'; 
+
+  'ruben.winnink@apg-am.nl'; 
+
+  'vassil.kotzev@apg-am.nl'; 
+
+  'pieter.van.ockenburg@apg-am.nl'; 
+
+  'ajr@atp.dk'; 
+
+  'indra.demunck@argenta.be'; 
+
+  'inne.weyers@argenta.be'; 
+
+  'simon.johnston@ashmoregroup.com'; 
+
+  'dimitri.antonio@aspectcapital.com'; 
+
+  'nicholas.bush@aspectcapital.com'; 
+
+  'nigel.gott@aspectcapital.com'; 
+
+  king.yip.tau@asr.nl (External); 
+
+  'michael.heemelaar@asr.nl'; 
+
+  'adeola.ukoha@atombank.co.uk'; 
+
+  's.heydenbluth@aab.de'; 
+
+  'd.hergenroeder@aab.de'; 
+
+  'h.hofrichter@aab.de'; 
+
+  's.grabowski@aab.de'; 
+
+  'pstewart@aurelius-capital.com'; 
+
+  'shankul.mittal@anz.com'; 
+
+  'paul.kirwan@anz.com'; 
+
+  'preben.hansen@anz.com'; 
+
+  'lees11@anz.com'; 
+
+  'mario.setijadi@anz.com'; 
+
+  'michael.wang@anz.com'; 
+
+  'daniel.guirola@anz.com'; 
+
+  'richard.godfrey@avivainvestors.com'; 
+
+  'mark.sullens@avivainvestors.com'; 
+
+  'ross.mcwhirter@avivainvestors.com'; 
+
+  'natalia.roudakova@axa.be'; 
+
+  'guy.devoeght@axa.be'; 
+
+  'wim.muyldermans@axa.be'; 
+
+  'thomas.eeckhaudt@axa.be'; 
+
+  'renaat.colpaert@axa.be'; 
+
+  'stijn.ghyselinck@axa.be'; 
+
+  'prisca.phily@axa-im.com'; 
+
+  'gregory.chemama@axa-im.com'; 
+
+  'ernst.dolce@axa-im.com'; 
+
+  'david.boutrou@axa-im.com'; 
+
+  'fiona.southall@axa-im.com'; 
+
+  'frederic.suhit@axa-im.com'; 
+
+  'gregoire.blond@axa-im.com'; 
+
+  'karim.elfarsi.contractor@axa-im.com'; 
+
+  'makhlouf.younsi.contractor@axa-im.com'; 
+
+  'douglas.siu.contractor@axa-im.com'; 
+
+  'martin.krenn@axa-winterthur.ch'; 
+
+  'karsten.mergen@bwva.de'; 
+
+  'guenter.mayer@bwva.de'; 
+
+  'peter.sibson@bailliegifford.com'; 
+
+  'anita.harar@bailliegifford.com'; 
+
+  'john.begg@bailliegifford.com'; 
+
+  'lorraine.brand@bailliegifford.com'; 
+
+  'paulina.kozak-kowalska@bailliegifford.com'; 
+
+  'neil.irving.colquhoun@bailliegifford.com'; 
+
+  'merj.ariazzi@bancaakros.it'; 
+
+  'giorgio.stefanini@bancaakros.it'; 
+
+  'lorenzo.dellosbarba@bancaakros.it'; 
+
+  'luca.dare@bancaakros.it'; 
+
+  'carlo.delfitto@bancaakros.it'; 
+
+  'daniela.solbiati@bancaakros.it'; 
+
+  'manuela.bellamio@bancaakros.it'; 
+
+  'laura.raccagni@bancaakros.it'; 
+
+  katia.pellegrini@bancaimi.com; 
+
+  Fabio.frigerio@bancaimi.com; 
+
+  massimo.sinisi@bancaimi.com; 
+
+  Fabio.cipriani@bancaimi.com; 
+
+  'luca.coppola@bancaimi.com'; 
+
+  'carmine.graziano@bancaimi.com'; 
+
+  'guido.riccio@bancaimi.com'; 
+
+  'katiuscia.manzoni@bancaimi.com'; 
+
+  'marta.leonarduzzi@esternibisp.com'; 
+
+  'silvia.ramolfo@bancaimi.com'; 
+
+  'paola.mosconi@bancaimi.com'; 
+
+  'cinzia.comi@mps.it'; 
+
+  'luisa.rinaldini@mps.it'; 
+
+  'paola.maroccolo@mps.it'; 
+
+  'roberto.santannera@mps.it'; 
+
+  ANTONIO.ZAVETTIERI@BPM.IT (External); 
+
+  'francesco.di.bari@bpm.it'; 
+
+  luca.succu@bpm.it (External); 
+
+  'massimo.furiati@bpm.it'; 
+
+  'lorenzo.denovellis@popvi.it'; 
+
+  'fidel.fernandez@bbva.com'; 
+
+  'jose.esteban.arias@bbva.com'; 
+
+  'juanmiguel.bernal@bbva.com'; 
+
+  'francisco.barrosa@bbva.com'; 
+
+  'baraceli.saldia@bbva.com'; 
+
+  'davide.gelli@bbva.com'; 
+
+  'javierjorge.navarro.contractor@bbva.com'; 
+
+  'nuriamaria.sanchez@bbva.com'; 
+
+  'tomas.andrade.contractor@bbva.com'; 
+
+  'dinesh.bala@bbva.com'; 
+
+  'francesco.saguatti@sgsbp.it'; 
+
+  Dmartin; 
+
+  'romina.socias@santander.cl'; 
+
+  'dremmele@santander.cl'; 
+
+  'mariafernanda.gonzalez@santander.cl'; 
+
+  'pperezpa@santander.cl'; 
+
+  'aprocopio@santander.cl'; 
+
+  ncda@gruposantander.com; 
+
+  'ccabrera@gruposantander.com'; 
+
+  'anjnavarro@gruposantander.com'; 
+
+  'anrabago@gruposantander.com'; 
+
+  'soportefront@gruposantander.com'; 
+
+  'emorilla@gruposantander.com'; 
+
+  'fmcgruninger@gruposantander.com'; 
+
+  'javier.marbella@gruposantander.com'; 
+
+  'maria.brea@gruposantander.com'; 
+
+  'pedro.henriques@santander.pt'; 
+
+  'apbcosta@santander.pt'; 
+
+  'sabine.patrias@bawagpsk.com'; 
+
+  'roey.mills@mailpoalim.co.il'; 
+
+  'alex.futerman@bankleumi.co.il'; 
+
+  'erez.ferraro@bankleumi.co.il'; 
+
+  'alexander.mowery@baml.com'; 
+
+  'anil.lall@baml.com'; 
+
+  'bhargavi.majjiga@bankofamerica.com'; 
+
+  'carlos.garay@bankofamerica.com'; 
+
+  'chandan.bhatia@baml.com'; 
+
+  'drew.chintala@baml.com'; 
+
+  'effie.miskouri@baml.com'; 
+
+  Evren Baysal; 
+
+  'gorazd.brumen@baml.com'; 
+
+  'jagan.indugu@bankofamerica.com'; 
+
+  'john.m.carpenter@bankofamerica.com'; 
+
+  'lev.kotliar@baml.com'; 
+
+  'lisa2.chen@baml.com'; 
+
+  'nagendra.mysore_shivakumar@baml.com'; 
+
+  'padam.gupta@bankofamerica.com'; 
+
+  'poojitha.rao@baml.com'; 
+
+  'pramada.sharma@bankofamerica.com'; 
+
+  'r.conklin@baml.com'; 
+
+  'samanth.hosadurga_chinivar@baml.com'; 
+
+  'vineet.menon@baml.com'; 
+
+  'stevan.stankovic@baml.com'; 
+
+  Emily Louie; 
+
+  'hooi-hon.lim@baml.com'; 
+
+  'karthikeyan.ramaseshan@baml.com'; 
+
+  'andy.scott@baml.com'; 
+
+  'dabee.jeong@baml.com'; 
+
+  'david.tashima@bankofamerica.com'; 
+
+  'emily.winter@baml.com'; 
+
+  'esmith34@baml.com'; 
+
+  'g.manamperi@baml.com'; 
+
+  'katie.newson@baml.com'; 
+
+  'marcus.denne@baml.com'; 
+
+  'peter.keyzers@baml.com'; 
+
+  'prakriti.gupta@baml.com'; 
+
+  'rarora19@bankofamerica.com'; 
+
+  'suleman.khan@bankofamerica.com'; 
+
+  'erol.kaya@baml.com'; 
+
+  'justin.e.blanchard@baml.com'; 
+
+  'robert1.fitzpatrick@baml.com'; 
+
+  'simon1.bayley@baml.com'; 
+
+  'alan.ricker@baml.com'; 
+
+  'chenxu.shao@baml.com'; 
+
+  'adoyle@baml.com'; 
+
+  'jitan.patel@baml.com'; 
+
+  vesela.radeva@baml.com; 
+
+  'victorlau@bochk.com'; 
+
+  'paul.brooks@boigm.com'; 
+
+  'paul.mcatee@boigm.com'; 
+
+  'geethan.rayan@bmo.com'; 
+
+  'vesco.vassilev@bmo.com'; 
+
+  'andrea.bellefeuille@bmo.com'; 
+
+  Herman.Gonzalez@bmo.com; 
+
+  'edwin_budding@bnz.co.nz'; 
+
+  'alison.weers@bnz.co.nz'; 
+
+  'andres.devoldere@bnz.co.nz'; 
+
+  'christine_webley@bnz.co.nz'; 
+
+  'yun.tin@boq.com.au'; 
+
+  'seiichirou_ono@mufg.jp'; 
+
+  'susumu_higaki@mufg.jp'; 
+
+  'mbalanzategui@bankia.com'; 
+
+  'rmartineza@bankia.com'; 
+
+  'foses@bankia.com'; 
+
+  'rfernandezm@bankia.com'; 
+
+  'sdiazm@bankia.com'; 
+
+  'a.brynart@degroofpetercam.com'; 
+
+  'jean-luc.vendome@palatine.fr'; 
+
+  'benoit.deddouch@palatine.fr'; 
+
+  'lionel.goepfert@palatine.fr'; 
+
+  'r.calbrix@palatine.fr'; 
+
+  'valerie.bertrand@palatine.fr'; 
+
+  'jl.vendome@palatine.fr'; 
+
+  'pcoiffard@alfransi.com.sa'; 
+
+  'shayp@barak-capital.co.il'; 
+
+  'drorc@barak-capital.co.il'; 
+
+  stewart.willett@barclays.com; 
+
+  'aksel.presthus@barclays.com'; 
+
+  'cyrus.mody@barclays.com'; 
+
+  'ashley.rice@barclays.com'; 
+
+  'anastasia.semenova@barclays.com'; 
+
+  'cecilia.kan@barclays.com'; 
+
+  'dave.harrison@barclays.com'; 
+
+  'william.izzo@barclays.com'; 
+
+  'alexander.portelli@barclays.com'; 
+
+  'amandeep.xa.dhillon@barclays.com'; 
+
+  'amy.ginman@barclays.com'; 
+
+  'charles.fattouche@barclays.com'; 
+
+  'cornelius.trestler@barclays.com'; 
+
+  'david.orr@barclays.com'; 
+
+  'derek.moody@barclays.com'; 
+
+  enrico.centi@barclays.com; 
+
+  'kumari.perumal@barclays.com'; 
+
+  'marc.charlier@barclays.com'; 
+
+  'mark.a.cronin@barclays.com'; 
+
+  'masako.sato@barclays.com'; 
+
+  'mohammed.moinuddin@barclays.com'; 
+
+  'olivia.fleming@barclays.com'; 
+
+  'rajesh.prakash@barclays.com'; 
+
+  'rossen.totchkov@barcap.com'; 
+
+  'sam.x.larlham@barclayscapital.com'; 
+
+  'shruti.rajkumarpatil@barclayscapital.com'; 
+
+  'shubhradeep.das@barclays.com'; 
+
+  'sachin.x.mehta@barclays.com'; 
+
+  'swapnil.bhele@barclayscapital.com'; 
+
+  'aishwarya.sudhirdoshi@barclays.com'; 
+
+  Paddy Padmanaban; 
+
+  alexander brown; 
+
+  'caroline.ichter@barclays.com'; 
+
+  'kailash.verma@barclays.com'; 
+
+  'lauren.thompson@barcap.com'; 
+
+  'szesze.eh@barclayscapital.com'; 
+
+  'taggart.mcmahon@barclays.com'; 
+
+  'hiroshi.tsujimoto2@barclays.com'; 
+
+  'ted@barnegatfund.com'; 
+
+  oliver murr; 
+
+  'peter.hartmann@bayernlb.de'; 
+
+  'christopher.schmidl@bayernlb.de'; 
+
+  'bernhard.egger@bayernlb.de'; 
+
+  'markus.eppner@bayernlb.de'; 
+
+  'janis.back@bayernlb.de'; 
+
+  'janos.zehentbauer@bayernlb.de'; 
+
+  'woesa@belfius.be'; 
+
+  'vigiv@belfius.be'; 
+
+  'jennifer.ulrich@berliner-sparkasse.de'; 
+
+  'fkapadia@bfam-partners.com'; 
+
+  'jsingh@bfam-partners.com'; 
+
+  'richard.smith@bgcpartners.com'; 
+
+  'arthur.bellot@blackrock.com'; 
+
+  'eve.velikova@blackrock.com'; 
+
+  'joseph.garelick@blackrock.com'; 
+
+  'luisa.cerca@blackrock.com'; 
+
+  'matteo.ruozzo@blackrock.com'; 
+
+  'rohit.k.sharma@blackrock.com'; 
+
+  'christopher.bauer@blackrock.com'; 
+
+  'lee.harman@roggeglobal.com'; 
+
+  'drao@bloomberg.net'; 
+
+  'mark.chilab@bluecrestcapital.com'; 
+
+  'martin.chew@bluecrestcapital.com'; 
+
+  'daniel.khoury@bluecrestcapital.com'; 
+
+  'emma.baron@bluecrestcapital.com'; 
+
+  'daniel.khoury@bluecrestcapial.com'; 
+
+  'grantm@bmgigroup.com'; 
+
+  'nabil.owadally@bmogam.com'; 
+
+  'rosa.fenwick@bmogam.com'; 
+
+  'antoine.viellard@bnpparibas.com'; 
+
+  'aparna.rao@ext.asia.bnpparibas.com'; 
+
+  'damien.risbey@uk.bnpparibas.com'; 
+
+  david mortimer; 
+
+  'felipe.miagusuku@bnpparibas.com'; 
+
+  'gloria.setordjie@bnpparibas.com'; 
+
+  'jacques.chambeau@asia.bnpparibas.com'; 
+
+  'john.zimmerman@us.bnpparibas.com'; 
+
+  'julien.four@uk.bnpparibas.com'; 
+
+  'kyrylo.kohut@bnpparibasfortis.com'; 
+
+  'nicholas.bacon@uk.bnpparibas.com'; 
+
+  'peter.wellstein@uk.bnpparibas.com'; 
+
+  'thihoangna.vuong@bnpparibas.com'; 
+
+  'vivien.he@asia.bnpparibas.com'; 
+
+  'huseyin.mavice@teb.com.tr'; 
+
+  'sergey.pergamentsev@bnpparibas.com'; 
+
+  'mark.stafford@uk.bnpparibas.com'; 
+
+  'dorian.okereke@uk.bnpparibas.com'; 
+
+  Nicola Weintroub; 
+
+  'munisha.le@uk.bnpparibas.com'; 
+
+  'diane.marsden@uk.bnpparibas.com'; 
+
+  'anton.ganev@bnpparibas.com'; 
+
+  'charlotte.hurcombe@uk.bnpparibas.com'; 
+
+  'hanna.mattout@bnpparibas.com'; 
+
+  'thianluh.tan@asia.bnpparibas.com'; 
+
+  'alexis.1.voisin@us.bnpparibas.com'; 
+
+  ibrahima.bocoum@bnpparibas.com; 
+
+  'benjamin.cohen@bnpparibas.com'; 
+
+  'helia.dagracamandinga@bnpparibas.com'; 
+
+  'abir.trabelsi@externe.bnpparibas.com'; 
+
+  'rajasekhar.vejendla@bnymellon.com'; 
+
+  'giorgio.monari@bperservices.it'; 
+
+  'nicolas.boujemaa@bpifrance.fr'; 
+
+  'jerome.bernard@bpifrance.fr'; 
+
+  'stanley.chin@brahman.sg'; 
+
+  'morgan.wirth@brevanhoward.com'; 
+
+  'jon.freedman@brevanhoward.com'; 
+
+  'mark.reynolds@btim.com.au'; 
+
+  'remy.marciano@caceis.com'; 
+
+  'guillaume.duval@caceis.com'; 
+
+  'sebastien.maussion@caceis.com'; 
+
+  'ariele.zeidman@caissedesdepots.fr'; 
+
+  'francoise.sotillo@caissedesdepots.fr'; 
+
+  'renaud.orbaiceta-leoz@creditimmobilierdefrance.com'; 
+
+  'saad.rahouti-ext@creditimmobilierdefrance.com'; 
+
+  'charles.beuvier@caissedesdepots.fr'; 
+
+  'xavier.pujol.llurda@caixabank.com'; 
+
+  'maria.gloria.garcia@caixabank.com'; 
+
+  fxcombis@lacaixa.es; 
+
+  'nsanmartin@lacaixa.es'; 
+
+  'jalbo@lacaixa.es'; 
+
+  'tangelillo@cam2cap.com'; 
+
+  Hollie.Aldridge@cibc.com; 
+
+  'benjamin.bullock@cibc.co.uk'; 
+
+  'shameer.sukha@cibc.com'; 
+
+  'bessie.wat@cibc.com'; 
+
+  'alan.speight@cibc.co.uk'; 
+
+  'keeith.white@cibc.co.uk'; 
+
+  'lu.qiao@cibc.com'; 
+
+  'chris.longworth@cantabcapital.com'; 
+
+  'aleksandra.monach@cantabcapital.com'; 
+
+  'james.cohen@cantabcapital.com'; 
+
+  'meghraj.katti@cantabcapital.com'; 
+
+  'alejandra.alemany@cantabcapital.com'; 
+
+  'treback@canyonpartners.com'; 
+
+  'jsmith@canyonpartners.com'; 
+
+  'damien.vaneeckhaute@cfm.fr'; 
+
+  'matthieu.philip@cfm.fr'; 
+
+  'support-lch@cfm.fr'; 
+
+  'brian.schlegel@capitalone.com'; 
+
+  'jacob.molovinsky@capitalone.com'; 
+
+  'peter.andersen@capitalone.com'; 
+
+  'anthonyforrest.puffenbarger@capitalone.com'; 
+
+  'nkrygier@capstoneco.com'; 
+
+  'dtong@capstoneco.com'; 
+
+  'lee.hasell@capstoneco.com'; 
+
+  'sdhawan@capulaglobal.com'; 
+
+  'ntoze@capulaglobal.com'; 
+
+  'm.lansink@cardano.com'; 
+
+  'm.verheijen@cardano.com'; 
+
+  'l.neut@cardano.com'; 
+
+  'n.bosmans@cardano.com'; 
+
+  'p.vogelzang@cardano.com'; 
+
+  'r.bloemberg@cardano.com'; 
+
+  'w.sybrandy@cardano.com'; 
+
+  'j.bakker@cardano.com'; 
+
+  'hbeviss@cassinisystems.com'; 
+
+  'james.chung@cathaybk.com.tw'; 
+
+  'jleale@caxton.com'; 
+
+  'mcosta@caxton.com'; 
+
+  'whill@caxton.com'; 
+
+  'paul.cole@cantabcapital.com'; 
+
+  'sebastian.ezquerro@cantabcapital.com'; 
+
+  'lilit.hakobyan@cba.am'; 
+
+  'mschlosser@challenger.com.au'; 
+
+  'dsouhan@challenger.com'; 
+
+  'qi-jun.liang@asia.ccb.com'; 
+
+  'beliam@lu.ccb.com'; 
+
+  'huangyanna.zh@ccb.com'; 
+
+  'peiyuqing.zh@ccb.com'; 
+
+  'wuyunhao.zh@ccb.com'; 
+
+  'zhoumiao.zh@ccb.com'; 
+
+  'zhouwenhui.zh@ccb.com'; 
+
+  'cathy.hk.siu@asia.ccb.com'; 
+
+  'kenneth.kh.cheung@asia.ccb.com'; 
+
+  'marco.kw.yuen@asia.ccb.com'; 
+
+  'amy.sl.wong@asia.ccb.com'; 
+
+  'charles.kw.mak@asia.ccb.com'; 
+
+  'angel.x.li@asia.ccb.com'; 
+
+  'ben.cy.kwan@asia.ccb.com'; 
+
+  'civic.hm.chong@asia.ccb.com'; 
+
+  'lingqing.zhang@asia.ccb.com'; 
+
+  'ruby.wt.kwong@asia.ccb.com'; 
+
+  'josie.yy.pang@asia.ccb.com'; 
+
+  'kathy.mk.pang@asia.ccb.com'; 
+
+  'benjamin.cm.pang@asia.ccb.com'; 
+
+  'alan.kl.tse@asia.ccb.com'; 
+
+  'san.cs.tam@asia.ccb.com'; 
+
+  'dzaidoulidi@lu.ccb.com'; 
+
+  'michaelkwok@cmbchina.com'; 
+
+  'ivycheung@cmbchina.com'; 
+
+  'guoyihao@cmbchina.com'; 
+
+  'ronnieho@cmbchina.com'; 
+
+  'chace.gordon@citadel.com'; 
+
+  'elambert@citadel.com'; 
+
+  'kevin.mcdonald@citadel.com'; 
+
+  'matthew.fetta@citadel.com'; 
+
+  'colin.jennings@citadel.com'; 
+
+  'marginitsupport@citadelgroup.com'; 
+
+  'mbrown3@citadelgroup.com'; 
+
+  'victoria.pettitt@citadelsecurities.com'; 
+
+  'matthew.t.norton@citi.com'; 
+
+  'carter.parker@citi.com'; 
+
+  'dl.gt.global.citi.otc.clearing.support@imcnam.ssmb.com'; 
+
+  Diana shapiro; 
+
+  'mandakini.kale@citi.com'; 
+
+  'robert.flanders@citi.com'; 
+
+  'christoph.rode@citi.com'; 
+
+  'anisha.gulati@citi.com'; 
+
+  'eduard.aminov@citi.com'; 
+
+  'garry.darrel.crosbie@citi.com'; 
+
+  Andrew Chin; 
+
+  Joe.Mcdonnell@Citi.com; 
+
+  'piotr.damer@citi.com'; 
+
+  'david.cobain@citi.com'; 
+
+  'bryan.cecil.turkington@citi.com'; 
+
+  'craig.nagel@citi.com'; 
+
+  'david.farhi@citi.com'; 
+
+  'devika.c.christie@citi.com'; 
+
+  'huee.ming.tan@citi.com'; 
+
+  'james.robb@citi.com'; 
+
+  'jeremiah.denonno@citi.com'; 
+
+  'karen.wallace@citi.com'; 
+
+  'mathers.qian@citi.com'; 
+
+  'matthew.seweryniak@citi.com'; 
+
+  'melanie.march@citi.com'; 
+
+  'michael.ian.hawthorne@citi.com'; 
+
+  'raju.ksj@citi.com'; 
+
+  'siva.kachapeswaran@citi.com'; 
+
+  'yiwei.liu@citi.com'; 
+
+  'pavel.bezdek@citi.com'; 
+
+  'matthew1.conlon@citi.com'; 
+
+  'elizaveta.miroshnik@citi.com'; 
+
+  'upendra.kumar.kachhwaha@citi.com'; 
+
+  'yong.min.goh@citi.com'; 
+
+  'andrey.shiryayev@citi.com'; 
+
+  'angad.shergill@citi.com'; 
+
+  arnel.cano@citi.com; 
+
+  'aseem.agrawal@citi.com'; 
+
+  'brenda.natalia.bosio@citi.com'; 
+
+  'frank.j.steinberg@citi.com'; 
+
+  'henry.fok@citi.com'; 
+
+  'howard.sun@citi.com'; 
+
+  'ken.wang.pang@citi.com'; 
+
+  'martin.santoso@citi.com'; 
+
+  'min.lentty.huang@citi.com'; 
+
+  'navin.kerai@citi.com'; 
+
+  'peter.w.evans@citi.com'; 
+
+  'sean.t.obrien@citi.com'; 
+
+  'shane.f.tully@citi.com'; 
+
+  'simon.tomkinson@citi.com'; 
+
+  'siyu.j.zhang@citi.com'; 
+
+  'xiuyuan.yang@citi.com'; 
+
+  'mackenzee.mann@citi.com'; 
+
+  cesararranz; 
+
+  'howard.sun@citi.com'; 
+
+  'henry.fok@citi.com'; 
+
+  'kenneth.henriques@citi.com'; 
+
+  'sirin.d.aksuyek@citi.com'; 
+
+  neil.j.monaghan@citi.com; 
+
+  'amir@clarusft.com'; 
+
+  'fabienne.roujas@cmcic-am.fr'; 
+
+  'john.barrasso@colonialfirststate.com.au'; 
+
+  Ian.Morris@Commerzbank.com; 
+
+  'arthur.alaferdov@ubs.com'; 
+
+  'ekaterina.koptsova@commerzbank.com'; 
+
+  'nicholas.chaudhry@commerzbank.com'; 
+
+  'chris.frederick@partner.commerzbank.com'; 
+
+  'anton.jahn@commerzbank.com'; 
+
+  'markus.starck@commerzbank.com'; 
+
+  'albert.neuendorf@commerzbank.com'; 
+
+  'pankajkumararunrao.ghurde@partner.commerzbank.com'; 
+
+  'stuart.kidd@partner.commerzbank.com'; 
+
+  'claude.moureaux@partner.commerzbank.com'; 
+
+  'anup.aryan@commerzbank.com'; 
+
+  'bjoernalexander.senger@commerzbank.com'; 
+
+  'francesco.somma@commerzbank.com'; 
+
+  'lutz.molgedey@commerzbank.com'; 
+
+  'malcolm.lamond@partner.commerzbank.com'; 
+
+  'michaela.ivasienkova@partner.commerzbank.com'; 
+
+  'richard.crapnell@commerzbank.com'; 
+
+  'simon.cooper@partner.commerzbank.com'; 
+
+  'susanna.bader@commerzbank.com'; 
+
+  'claudia.hopp@commerzbank.com'; 
+
+  'sgreska@cftc.gov'; 
+
+  'chower@cftc.gov'; 
+
+  'atorres@cftc.gov'; 
+
+  'gschmeltz@cftc.gov'; 
+
+  'smoses@cftc.gov'; 
+
+  'ndong@cftc.gov'; 
+
+  'tpeng@cftc.gov'; 
+
+  'jeremy.saunders@cibc.com'; 
+
+  'duffp@cba.com.au'; 
+
+  'dan.stevenson@cba.com.au'; 
+
+  'darius.panasko@cba.com.au'; 
+
+  'josselin.blanchong@cba.com.au'; 
+
+  'shelby.ko@complusam.com'; 
+
+  'jnavarro@comunytek.com'; 
+
+  'vbouza@comunytek.com'; 
+
+  'franz.maier@rabobank.com'; 
+
+  ludovic.paumard@ca-cib.com; 
+
+  renaud.polliot@ca-cib.com; 
+
+  'quentin.letellier@ca-cib.com'; 
+
+  'benjamin.oudot@ca-cib.com'; 
+
+  'laetitia.ledain@creditfoncier.fr'; 
+
+  'emmanuel.cheret@creditfoncier.fr'; 
+
+  'thibaut.toulon@creditfoncier.fr'; 
+
+  'arzu.yilmaz@creditimmobilierdefrance.com'; 
+
+  'nathalie.le-scao@arkea.com'; 
+
+  'yannick.gouzerh@arkea.com'; 
+
+  'matthew.forrest@credit-suisse.com'; 
+
+  philip.schaffhauser@credit-suisse.com; 
+
+  Prakash Ragit; 
+
+  'gareth.elahi@credit-suisse.com'; 
+
+  'andrea.zehnder@credit-suisse.com'; 
+
+  'gnanasekaran.krishnamurthy@credit-suisse.com'; 
+
+  'singyi.chai@credit-suisse.com'; 
+
+  'barry.tame@credit-suisse.com'; 
+
+  Tobias Becker; 
+
+  'matthew.betts@credit-suisse.com'; 
+
+  'graham.boak@credit-suisse.com'; 
+
+  Adam Tibbalds; 
+
+  'alex.chow@credit-suisse.com'; 
+
+  'christopher.pady@credit-suisse.com'; 
+
+  'diana.rosi.2@credit-suisse.com'; 
+
+  'dmitrijs.sitnikovs@credit-suisse.com'; 
+
+  'drew.thompson@credit-suisse.com'; 
+
+  'james.allen.2@credit-suisse.com'; 
+
+  'jennifer.rockell@credit-suisse.com'; 
+
+  'jinal.ramani@credit-suisse.com'; 
+
+  'jorge.pastor@credit-suisse.com'; 
+
+  'josephine.evans@credit-suisse.com'; 
+
+  'karene.camara@credit-suisse.com'; 
+
+  'kevin.smyth@credit-suisse.com'; 
+
+  'krishnamoorthy.singaram@credit-suisse.com'; 
+
+  'lenny.vovk@credit-suisse.com'; 
+
+  'lindsay.parsons@credit-suisse.com'; 
+
+  'lyndon.smith@credit-suisse.com'; 
+
+  'matthew.forte@credit-suisse.com'; 
+
+  'michael.green@credit.suisse.com'; 
+
+  'monirith.khieu@credit-suisse.com'; 
+
+  'paul.giltinan.2@credit-suisse.com'; 
+
+  paul.twohey@credit-suisse.com; 
+
+  'peter.longauer@credit-suisse.com'; 
+
+  'philippe.berthier@credit-suisse.com'; 
+
+  'pranali.hadkar@credit-suisse.com'; 
+
+  'prerana.horwa@credit-suisse.com'; 
+
+  Rakesh.jain.2@credit-suisse.com; 
+
+  'roberto.perez@credit-suisse.com'; 
+
+  'sarp.acar.2@credit-suisse.com'; 
+
+  'sean.healy@credit-suisse.com'; 
+
+  'see.kai@credit-suisse.com'; 
+
+  'shubhada.gore@credit-suisse.com'; 
+
+  'siaujia.pok@credit-suisse.com'; 
+
+  'slawomir.noga@credit-suisse.com'; 
+
+  'tariq.hasan@credit-suisse.com'; 
+
+  'nikolai.nowaczyk@credit-suisse.com'; 
+
+  Suresh Rao; 
+
+  'slawomir.trojnacki@credit-suisse.com'; 
+
+  'james.smith@credit-suisse.com'; 
+
+  'benoit.chaligne@credit-suisse.com'; 
+
+  'eleanor.waller@credit-suisse.com'; 
+
+  William.black@credit-suisse.com; 
+
+  sellina.goh@credit-suisse.com; 
+
+  'alex.tyo@credit-suisse.com'; 
+
+  'michael.green@credit-suisse.com'; 
+
+  'stefan.voigt@credit-suisse.com'; 
+
+  'afalaschini@credem.it'; 
+
+  'flarizza@credem.it'; 
+
+  'lgrisek@csob.cz'; 
+
+  'mei.leung@ctbcbank.com'; 
+
+  'kai.wu@ctbabank.com'; 
+
+  'tony.pan@ctbcbank.com'; 
+
+  'stan.wu@ctbcbank.com'; 
+
+  'brian.norwood@uk.daiwacm.com'; 
+
+  'joseph.edalat@uk.daiwacm.com'; 
+
+  'sachiko.morita@daiwa.co.jp'; 
+
+  'james.neale@daiwa.co.jp'; 
+
+  'nistr@danskebank.dk'; 
+
+  'mab@danskebank.dk'; 
+
+  'alh@danskebank.dk'; 
+
+  'bjaj@danskebank.dk'; 
+
+  'fcl@danskebank.dk'; 
+
+  'jmad@danskebank.dk'; 
+
+  'kimdl@danskebank.dk'; 
+
+  'mott@danskebank.dk'; 
+
+  'tber@danskebank.dk'; 
+
+  'riek@danskebank.dk'; 
+
+  'tefr@danskebank.dk'; 
+
+  'nir@danskebank.dk'; 
+
+  'jess.hansen@danskebank.dk'; 
+
+  'jainmi@deshaw.com'; 
+
+  'torsten.simon@deka.de'; 
+
+  'jochen.pomper@deka.de'; 
+
+  'oliver.jungkurth.ext@deka.de'; 
+
+  'tilman.ganzhorn@deka.de'; 
+
+  'laurent_kervevan@deltalloyd.nl'; 
+
+  'edwin_de_jong@deltalloyd.nl'; 
+
+  'randy_kelatow@dlbank.nl'; 
+
+  'thijs_van_den_dries@deltalloyd.nl'; 
+
+  'gijs_de_vet@dlbank.nl'; 
+
+  'aniket-a.sharma@db.com'; 
+
+  Ankit-r.anand@db.com; 
+
+  'anurag.mishra@db.com'; 
+
+  'ashesh.anand@db.com'; 
+
+  'chong-khai.chuah@db.com'; 
+
+  'dharin.mistry@db.com'; 
+
+  'gurpreet.sodhi@db.com'; 
+
+  'luke.thies@db.com'; 
+
+  'marco.barchmann@db.com'; 
+
+  'neeraj.bangalorekar@db.com'; 
+
+  'oksana.kachkan@db.com'; 
+
+  'peter.reiter@db.com'; 
+
+  'richa.rajput@db.com'; 
+
+  'sam.yoo@db.com'; 
+
+  'joseph.thompson@db.com'; 
+
+  'rahul.deora@db.com'; 
+
+  'katie.warner@db.com'; 
+
+  'robert-c.cohen@db.com'; 
+
+  Joseph.Macdonald@db.com; 
+
+  parikshit.gauba@db.com; 
+
+  'tushit.sen@db.com'; 
+
+  'charles.emerton@db.com'; 
+
+  'vedant.munshi@db.com'; 
+
+  'kristin.stopperan@postbank.de'; 
+
+  'johannes.hess@postbank.de'; 
+
+  Larsstopperan; 
+
+  'ulrich-a.doerr@postbank.de'; 
+
+  'kamila.goll@postbank.de'; 
+
+  'vanessa.bender@postbank.de'; 
+
+  'stefan.tennstedt@bhw.de'; 
+
+  'gisa.woltmann@bhw.de'; 
+
+  'shoehn@bhw.de'; 
+
+  'takashi.akiyama@db.com'; 
+
+  'paolo.thiery@dexia.com'; 
+
+  'eric.adjemian@dexia.com'; 
+
+  'julien.munoz@dexia.com'; 
+
+  'olivier.causse@dexia.com'; 
+
+  'stephane.ruffet@dexia.com'; 
+
+  'mustapha.marchoud@dexia.com'; 
+
+  'guillaume.chaudemanche@dexia.com'; 
+
+  'boris.ilyayev@dexia-us.com'; 
+
+  'measurementmonitoringcontrol@dexia-us.com'; 
+
+  'pascal.cherel@dexia.com'; 
+
+  'mark.paul@sparkasse-bremen.de'; 
+
+  'katja.karstaedt@sparkasse-bremen.de'; 
+
+  'manuela.leber@sparkasse-bremen.de'; 
+
+  morten.jakobsen@dnb.no; 
+
+  'nils.gunnar.brattlie@dnb.no'; 
+
+  'frode.finsrud@dnb.no'; 
+
+  'joliva@drw.com'; 
+
+  'areinstein@drw.com'; 
+
+  'michael.frank@dvbbank.com'; 
+
+  claus.schnee@dzbank.de; 
+
+  Miriam Wagner; 
+
+  'thomas.loeffler@dzbank.de'; 
+
+  'bernhard.panzenell@dzbank.de'; 
+
+  'marion.guertler@dzbank.de'; 
+
+  'peter.kohl-landgraf@dzbank.de'; 
+
+  'm.maurice.extern_ohne_vollmacht@dzbank.de'; 
+
+  'margret.hess@dzbank.de'; 
+
+  'julian.eberhardt@dzbank.de'; 
+
+  'philipp.beyer@dzbank.de'; 
+
+  'christian.schneider@dz-privatbank.com'; 
+
+  'marc.podesta@efgbank.com'; 
+
+  'david.trudeau@eislercapital.com'; 
+
+  'konstantinos.gounaras@eislercapital.com'; 
+
+  'luke.willmington@eislercapital.com'; 
+
+  'nprap@elliottmgmt.com'; 
+
+  'schesner@elliottmgmt.com'; 
+
+  'anis.frikha@external.engie.com'; 
+
+  'gem-clearing-service@engie.com'; 
+
+  'li.zhang@external.engie.com'; 
+
+  'purnima.safaee@external.engie.com'; 
+
+  'zenabou.ngoungoure@external.gdfsueztrading.com'; 
+
+  'gaby.greboval@external.engie.com'; 
+
+  'franck.kamelan@external.engie.com'; 
+
+  'martin.sramko@erstegroup.com'; 
+
+  'sdaliakopoulos@eurobank.gr'; 
+
+  'a.bornert@esm.europa.eu'; 
+
+  'jean-baptiste.ziade@exane.com'; 
+
+  'christopher_w_holland@fanniemae.com'; 
+
+  'brian_j_skram@fanniemae.com'; 
+
+  'john_n_balazs@fanniemae.com'; 
+
+  'andrea.duncan@fhlbboston.com'; 
+
+  'brian.pratt@fhlbboston.com'; 
+
+  'jason.fram@fhlbboston.com'; 
+
+  'jewell.norville@fhlbboston.com'; 
+
+  'cmunro@fhlbi.com'; 
+
+  hennessm@fhlbsf.com; 
+
+  'blake.mumby@fhlbboston.com'; 
+
+  'john.bastoni@fhlbboston.com'; 
+
+  'martin.mcgrath@fhlbboston.com'; 
+
+  'prisca.ong@fhlbboston.com'; 
+
+  'amina@fhlbsf.com'; 
+
+  'ediakun@fscm.com'; 
+
+  'czaloom@fscm.com'; 
+
+  'nshewmaker@fscm.com'; 
+
+  'graeme.kite@fil.com'; 
+
+  'paul.wood@fil.com'; 
+
+  's.buttera@fineco.it'; 
+
+  'simon@finisterrecapital.com'; 
+
+  'nigel@finisterrecapital.com'; 
+
+  'travis.ganz@rmb.co.za'; 
+
+  'kathrin.weitkuhn@fms-wm.de'; 
+
+  'daniel.guenther@fms-wm.de'; 
+
+  'sebastian.horlemann@fms-wm.de'; 
+
+  'tobias.hatt@fms-wm.de'; 
+
+  'irakli.nazghaidze@fms-wm.de'; 
+
+  'peter.breithaupt@fms-sg.de'; 
+
+  'raj.chudasama@fandc.com'; 
+
+  'louise.scott@gam.com'; 
+
+  'kai.lo@gam.com'; 
+
+  'mitch.hagaman@black-river.com'; 
+
+  'drice@gelbergroup.com'; 
+
+  'yanwen.pan@generali-invest.com'; 
+
+  'ines.zrelli@axa.com'; 
+
+  'brooke.lieberwirth@gmo.com'; 
+
+  'garrett.sullivan@gmo.com'; 
+
+  'jan.burgy@gs.com'; 
+
+  'ricky.gunawan@gs.com'; 
+
+  'robert.atuahene@gs.com'; 
+
+  'joann.economou@gs.com'; 
+
+  'phaniraja.gajjala@gs.com'; 
+
+  'jared.fein@gs.com'; 
+
+  'daryn.rapson@gs.com'; 
+
+  'andreza.barbosa@gs.com'; 
+
+  'angela.stasinopoulou@gs.com'; 
+
+  'becky.evans@gs.com'; 
+
+  'jessica.bateson@gs.com'; 
+
+  'josh.chen@ny.email.gs.com'; 
+
+  'millie.montague@gs.com'; 
+
+  'nicolas.lemoigne@gs.com'; 
+
+  'oli.gilbert@gs.com'; 
+
+  'pierre-jean.geoffroy@gs.com'; 
+
+  'salil.dhawan@gs.com'; 
+
+  'sarah.mccann@gs.com'; 
+
+  'sarah.shore@gs.com'; 
+
+  'tanmoy.bhunia@ny.email.gs.com'; 
+
+  'varsha.gopal@gs.com'; 
+
+  'varun.thammineni@gs.com'; 
+
+  'sylvia.ahaus@gs.com'; 
+
+  'thomas.x.knight@gs.com'; 
+
+  'masato.ando@gs.com'; 
+
+  'mony.lim@gs.com'; 
+
+  'ram.narayan@ny.email.gs.com'; 
+
+  'thomas.littleton@gs.com'; 
+
+  'siddharth.agarwal@gs.com'; 
+
+  'mdailey@gama.com'; 
+
+  'kgold@gama.com'; 
+
+  'sofien.bouchelkia@gib.com'; 
+
+  'sofia.borrego@haitongib.com'; 
+
+  'felix.geipel@haspa.de'; 
+
+  'johe26@handelsbanken.se'; 
+
+  'kp@haymancapital.com'; 
+
+  'lr@haymancapital.com'; 
+
+  'jshibata@hbk.com'; 
+
+  'claudia.seeger@helaba.de'; 
+
+  'steffen.nehles@helaba.de'; 
+
+  'natasha.sibley@henderson.com'; 
+
+  'dan.cosby@henderson.com'; 
+
+  tejas mayekar; 
+
+  'richard.ingram@hsbcib.com'; 
+
+  'nick.marcelle@hsbc.com.hk'; 
+
+  zamayer nawaz; 
+
+  'scott.ford@hsbcib.com'; 
+
+  lucy.hammond@hsbc.com; 
+
+  'jonathan.mainwaring@hsbcib.com'; 
+
+  scott cogswell(BM); 
+
+  siddique khan; 
+
+  'ian.jooste@hsbcib.com'; 
+
+  'charley.alsford@hsbc.com'; 
+
+  'danny.dadlani@hsbc.com'; 
+
+  'clement.cordier@hsbcib.com'; 
+
+  'alan.c.huang@us.hsbc.com'; 
+
+  denis.mazieres@hsbc.com; 
+
+  'guillaume.simonian@hsbc.com'; 
+
+  'jason.lin@hsbcib.com'; 
+
+  'julianna.x.salazar@us.hsbc.com'; 
+
+  'krishna.x.vedam@us.hsbc.com'; 
+
+  'martin.jenkins@hsbc.com'; 
+
+  'michael.x.paulus@us.hsbc.com'; 
+
+  'mohamed.arezki@hsbc.fr'; 
+
+  'rafal.tkacz@hsbc.com'; 
+
+  'wojciech.suska@hsbc.com'; 
+
+  'hsbc_backloading@hsbc.com'; 
+
+  'marcin.k.paszkowski@hsbc.com'; 
+
+  erniex; 
+
+  'fatima.e.roudani@hsbc.fr'; 
+
+  guillaumeroche; 
+
+  'siddharth.brahmbhatt@hsbc.com'; 
+
+  'christian.koch@hsbc.de'; 
+
+  Amit x. Patel; 
+
+  'andreas.ehlert@hsh-nordbank.com'; 
+
+  'wolfgang.wekesser@hsh-nordbank.com'; 
+
+  'philip.sturm@hyponoe.at'; 
+
+  'wolfgang.pyka@hyponoe.at'; 
+
+  'reinhard.mairhofer@hypotirol.com'; 
+
+  'ana.miguel@icbclondon.com'; 
+
+  'james.silcock@icbclondon.com'; 
+
+  'guojingwen@icbc.com.cn'; 
+
+  'haishan.mao@icbc.com.cn'; 
+
+  'heyutong@icbc.com.cn'; 
+
+  'jianquan.xia@icbc.com.cn'; 
+
+  'tong.zhao@icbclondon.com'; 
+
+  'wuying.jr@icbc.com.cn'; 
+
+  'mark.pullinger@icbcstandard.com'; 
+
+  'mahendra.soni@standardbank.com'; 
+
+  'ingo.engelmann@ikb.de'; 
+
+  'felix.hasse@ikb.de'; 
+
+  'thomas.laubrich@ikb.de'; 
+
+  'julia.dony@ikb.de'; 
+
+  'dieter.prowaznik@ikb.de'; 
+
+  'shaoxin.jr@icbc.com.cn'; 
+
+  'meixiaomin@icbc.com.cn'; 
+
+  'snf@ipf.dk'; 
+
+  'andrew.armstrong@ingbank.com.au'; 
+
+  'diana.betz@ing.com.au'; 
+
+  Michiel.Smid@ingbank.com; 
+
+  'rutger.de.hertog@ingbank.com'; 
+
+  'paul.watson@ing.nl'; 
+
+  'adelya.timirova@ing.nl'; 
+
+  'john.jesani@ingbank.com'; 
+
+  'mariana.ortiz@ingbank.com'; 
+
+  Anouk.Klemann@ing.nl; 
+
+  'kevin.jean-alphonse@ing.be'; 
+
+  'micha.kemeling@ing.com'; 
+
+  'jacob.goense@ingbank.com'; 
+
+  'jilke.folmer@ing.nl'; 
+
+  'mayank.agnihotri@ing.nl'; 
+
+  'thijs.van.den.berg@ingbank.com'; 
+
+  'vanessa.van.straten@ingbank.com'; 
+
+  'ramses.knijff@ingbank.com'; 
+
+  'zdzislawa.ogrzywalska@ingbank.pl'; 
+
+  'miroslaw.krajka@ingbank.pl'; 
+
+  'agnieszka.zukowska@ingbank.pl'; 
+
+  'jim.verhoef@ingbank.com'; 
+
+  'joost.berkers@ingim.com'; 
+
+  'maja.sonnefeld@ing-diba.de'; 
+
+  'mateusz.lewczuk@ing-diba.de'; 
+
+  'd.beh@ing-diba.de'; 
+
+  'alastair.maher@insightinvestment.com'; 
+
+  'ray.stanton@insightinvestment.com'; 
+
+  'jzhuravlov@iagam.com.au'; 
+
+  'christopher.talbott@intlfcstone.com'; 
+
+  'stephen.wong@invealth.com'; 
+
+  'johannes.lischke@ibb.de'; 
+
+  'claudius.schade@ibb.de'; 
+
+  'alexander.hotzel@ibb.de'; 
+
+  'deniz.ece@ibb.de'; 
+
+  'michael.wolters@ibb.de'; 
+
+  'nicole.weiberg@ibb.de'; 
+
+  'janett.vinke@ib-sh.de'; 
+
+  'kerstin.brueggemann@ib-sh.de'; 
+
+  'artur.koroch@ib-sh.de'; 
+
+  'jan-thore.krukowska@ib-sh.de'; 
+
+  'jennifer.smith@ioniccap.com'; 
+
+  'pmpapastathis@wellington.com'; 
+
+  'ben.dawson@jbdh.com'; 
+
+  'alex.stirling@jbdh.com'; 
+
+  'daniel.tattam@jbdh.com'; 
+
+  'danieltattam@jbdh.com'; 
+
+  'michael.stein@jbdh.com'; 
+
+  'joe.button@jbdh.com'; 
+
+  'owen.solberg@jbdh.com'; 
+
+  'sofia.russo@jbdh.com'; 
+
+  'tsekhon@jefferies.com'; 
+
+  'jlivia@jefferies.com'; 
+
+  'mjernestaal@jefferies.com'; 
+
+  'vvoeten@jefferies.com'; 
+
+  'dwebb@jefferies.com'; 
+
+  'jan-oliver.kohlberg@berenberg.de'; 
+
+  'asuka.nakata@jpmorgan.com'; 
+
+  'harriet.m.cooksey@jpmorgan.com'; 
+
+  'kit.r.hammerbeck@jpmchase.com'; 
+
+  'mark.jewsbury@jpmorgan.com'; 
+
+  'muriel.delafargue@jpmorgan.com'; 
+
+  'nikolai.saaksmeier@jpmorgan.com'; 
+
+  'nona.alexander@jpmorgan.com'; 
+
+  'zak.f.simpson@jpmorgan.com'; 
+
+  'aron.fersko-weiss@jpmorgan.com'; 
+
+  'asif.x.iqbal@jpmorgan.com'; 
+
+  'brad.m.flax@jpmorgan.com'; 
+
+  'chenhao.li@jpmchase.com'; 
+
+  'daria.e.wilk@jpmorgan.com'; 
+
+  'edeline.sw.teo@jpmorgan.com'; 
+
+  'gary.w.liu@jpmchase.com'; 
+
+  'greg.clarke@jpmorgan.com'; 
+
+  'jason.law@jpmorgan.com'; 
+
+  'jenna.m.troop@jpmorgan.com'; 
+
+  'michael.x.gallagher@jpmorgan.com'; 
+
+  'oliver.r.larkman@jpmchase.com'; 
+
+  'rahul.h.bhambhani@jpmorgan.com'; 
+
+  'samantha.benitez@jpmorgan.com'; 
+
+  'soufiane.hayou@jpmorgan.com'; 
+
+  'vikas.kumar@jpmorgan.com'; 
+
+  'steffen.pfeifer@jpmorgan.com'; 
+
+  'ganesh.m.bhosale@jpmchase.com'; 
+
+  'alessio.j.anderegg@jpmorgan.com'; 
+
+  'anthony.randazzo@jpmorgan.com'; 
+
+  'carlo.castellana@jpmorgan.com'; 
+
+  'daniel.j.upbin@jpmchase.com'; 
+
+  'gunay.aksoy@jpmorgan.com'; 
+
+  'jessica.w.tu@jpmchase.com'; 
+
+  'john.c.cumming@jpmorgan.com'; 
+
+  'laura.rychlewski@jpmorgan.com'; 
+
+  'nik.petrika@jpmorgan.com'; 
+
+  'veqar.x.siddiqui@jpmorgan.com'; 
+
+  'tom.s.wilkinson@jpmorgan.com'; 
+
+  'eugene.x.fridman@jpmorgan.com'; 
+
+  'aron.fersko-weiss@jpmorgan.com'; 
+
+  'juan.c.escobar@Jpmchase.com'; 
+
+  'vishal.goyal@jpmorgan.com'; 
+
+  'salvatore.p.fazio@jpmorgan.com'; 
+
+  'juan.c.escobar@jpmorgan.com'; 
+
+  'andrew.jackson@jpmorgan.com'; 
+
+  'benjamin.nk.sackey@jpmorgan.com'; 
+
+  'edouard.x.hallais@jpmorgan.com'; 
+
+  'kevin.k.mclachlan@jpmchase.com'; 
+
+  'libin.cheng@jpmchase.com'; 
+
+  'lokesh.x.dani@jpmorgan.com'; 
+
+  'mark.gallagher@jpmorgan.com'; 
+
+  'scott.c.crawford@jpmorgan.com'; 
+
+  'shreya.jhawar@jpmchase.com'; 
+
+  'mohammed.s.meah@jpmorgan.com'; 
+
+  'mikhail.stepanov@jpmorgan.com'; 
+
+  'peng.x.gong@jpmorgan.com'; 
+
+  'phillip.a.lloyd@jpmorgan.com'; 
+
+  'ron.d.markowicz@jpmorgan.com'; 
+
+  gautam.x.karia@jpmorgan.com; 
+
+  'naina.j.ghosh@jpmorgan.com'; 
+
+  'eliz.m.lin@jpmorgan.com'; 
+
+  christopher.m.turner@jpmorgan.com; 
+
+  'federico.ottaviani@jpmorgan.com'; 
+
+  'burke.r.lesher@jpmorgan.com'; 
+
+  vivian.he@Jpmorgan.com; 
+
+  'sakthivel.viswanathan@jpmorgan.com'; 
+
+  'eugene.x.fridman@jpmorgan.com'; 
+
+  'michael.x.dimaulo@jpmorgan.com'; 
+
+  'praveen.a.vijay@jpmorgan.com'; 
+
+  'dennis.hopson@jpmorgan.com'; 
+
+  'david.m.stinson@jpmorgan.com'; 
+
+  'terry.robinson@jhb.co.uk'; 
+
+  'mjh@jyskebank.dk'; 
+
+  'bonde@jyskebank.dk'; 
+
+  'r.bacher@kommunalkredit.at'; 
+
+  'p.rieder@kafinanz.at'; 
+
+  'brandon.labanca@karyacapital.com'; 
+
+  'eric.jensen@karyacapital.com'; 
+
+  'laurence.nguyen@karyacapital.com'; 
+
+  'sinclair@kdb.co.kr'; 
+
+  'bas.bredius@kempen.nl'; 
+
+  'hans.kamminga@kempen.nl'; 
+
+  'tanner.cox@kochind.com'; 
+
+  'p.rieder@kommunalkredit.at'; 
+
+  't.koubek@kommunalkredit.at'; 
+
+  'o.rammel@kommunalkredit.at'; 
+
+  'r.weiland@kommunalkredit.at'; 
+
+  's.barcza@kommunalkredit.at'; 
+
+  'prachaya.louthavee@ktb.co.th'; 
+
+  'kanitta.eaimsupawat@ktb.co.th'; 
+
+  'stephanie.giraut@labanquepostale.fr'; 
+
+  'martine.maulde@labanquepostale.fr'; 
+
+  'louise.loembe@labanquepostale.fr'; 
+
+  'jean-baptiste.denizot@labanquepostale-am.fr'; 
+
+  'o.etienne@edr.com'; 
+
+  martin.a.simon@lbbw.de; 
+
+  'carmen.schoenewolf@lbbw.de'; 
+
+  'alexander.griesshaber@lbbw.de'; 
+
+  Simone.Lamla@lbbw.de; 
+
+  'eddie.haussmann@lbbw.de'; 
+
+  'oliver.penezic@lbbw.de'; 
+
+  'nicole.dalemann@lbbw.de'; 
+
+  'sabine.heinisch@lbbw.de'; 
+
+  'mathias.treml@lbbw.de'; 
+
+  'nuria.papaseit.girondo@lbbw.de'; 
+
+  'eva.mayer@lbbw.de'; 
+
+  'aleksandra.basara@lbbw.de'; 
+
+  'thomas.amhof@lbbw.de'; 
+
+  'dirk.marohn@berliner-sparkasse.de'; 
+
+  'reinout.schalkwijk@lbb.de'; 
+
+  'sebastian.poth@helaba.de'; 
+
+  'lars.sichelschmidt@helaba.de'; 
+
+  'rowena.schein@helaba.de'; 
+
+  'nicole.meschkat@helaba.de'; 
+
+  'mario.bott@helaba.de'; 
+
+  Ralf.Lauer@helaba.de; 
+
+  Bauco, Joseph (LCH); 
+
+  Walsh, Siobhan (LCH); 
+
+  Wildman, Gabriella (LCH); 
+
+  Singh, Aatish (LCH); 
+
+  Wo, Angela (LCH); 
+
+  Ejuetami, Austin (LCH); 
+
+  Richards, Cazemba (LCH); 
+
+  Kjaeldgaard, Christian (LCH); 
+
+  Macfarlane, Emma (LCH); 
+
+  Converse, Floyd (LCH); 
+
+  Weindling, Henry (LCH); 
+
+  Driscoll, James (LCH); 
+
+  Ng, Jennifer (LCH); 
+
+  Dixon, John (LCH); 
+
+  Blum, Jonathan (LCH); 
+
+  Yan, Monica (LCH); 
+
+  Grant, Kerry (LCH); 
+
+  Siu, Kevin (LCH); 
+
+  James, Laura (LCH); 
+
+  Searle, Louise (LCH); 
+
+  Sergeeva, Maria (LCH); 
+
+  Fedak, Nazariy (LCH); 
+
+  Rodriguez, Oscar (LCH); 
+
+  Primi, Pamela (LCH); 
+
+  Koumantanos, Panagiotis (LCH); 
+
+  Anschperger, Pia (LCH); 
+
+  Ponnusamy, Pratheev (LCH); 
+
+  Pertescu, Radu (LCH); 
+
+  Patel, Rajesh (LCH); 
+
+  Matharu, Ravinder (LCH); 
+
+  Rollan, Rhett (LCH); 
+
+  Cooper, Robert (LCH); 
+
+  Ford, Scott (LCH); 
+
+  Melissano, Silvia (LCH); 
+
+  Edgley, Simon (LCH); 
+
+  Prior, Steven (LCH); 
+
+  Mahadeva, Sunil (LCH); 
+
+  Sullivan, Timothy (LCH); 
+
+  Postnova, Yulia (LCH); 
+
+  Shen, Zongjie (LCH); 
+
+  Clark, Samantha-Jane (LCH); 
+
+  Occhino, Alfi (LCH); 
+
+  Dedhia, Ankeet (LCH); 
+
+  Wong, Ashley (LCH); 
+
+  ODea, Claire (LCH); 
+
+  Attanasio, Daniel (LCH); 
+
+  Baber, Darcy (LCH); 
+
+  Kandola, Harpinder (LCH); 
+
+  Cassens, Heiko (LCH); 
+
+  Short, Kim (LCH); 
+
+  Blazy, Lois (LCH); 
+
+  Ahmad, Naveed (LCH); 
+
+  Verhulst, Petra (LCH); 
+
+  Pullan, Scott (LCH); 
+
+  Ippili, Sudheer (LCH); 
+
+  Barthelemy, Charles (LCH); 
+
+  Tutaan, Janice (LCH); 
+
+  Somekh, Jonathan (LCH); 
+
+  Coker, Idrissa (LCH); 
+
+  Jugoo, Al (LCH); 
+
+  Harrison, Annabel (LCH); 
+
+  Foy, Christian (LCH); 
+
+  Reeves, Colin (LCH); 
+
+  Baker, Edward (LCH); 
+
+  Pipalia, Gaurang (LCH); 
+
+  Hopkins, Gemma (LCH); 
+
+  OHare, Jonathan (LCH); 
+
+  Rizkalla, Krystle (LCH); 
+
+  Keown, Larissa (LCH); 
+
+  Rosse, Laurent (LCH); 
+
+  Mistry, Manisha (LCH); 
+
+  Hann, Marc (LCH); 
+
+  Reckmann, Natalie (LCH); 
+
+  Sissons, Neil (LCH); 
+
+  Atkinson, Phil (LCH); 
+
+  Gregory, Stephen (LCH); 
+
+  Saxena, Vishal (LCH); 
+
+  Ford, Catherine (LCH); 
+
+  Ewald, Lauren (LCH); 
+
+  Zhu, Qing (LCH); 
+
+  Thomas, Anthony (LCH); 
+
+  Joyce, Bernard (LCH); 
+
+  Blazicevic, Robert (LCH); 
+
+  McGuire, Andrew (LCH); 
+
+  'charlie.coles@lch.com'; 
+
+  Licini, Christopher (LCH); 
+
+  Davies, David (LCH); 
+
+  Ford, David (LCH); 
+
+  Donaghey, Joanne (LCH); 
+
+  Cohen, Jonathan (LCH); 
+
+  Celhay, Luis (LCH); 
+
+  Singh, Rickinder (LCH); 
+
+  MacEachern, Ronald (LCH); 
+
+  Morgan, Rosie (LCH); 
+
+  Quinlan, Sean (LCH); 
+
+  Crees, Simon (LCH); 
+
+  Patel, Prakash (LCH); 
+
+  Jacobs, Ricki (LCH); 
+
+  Badii, Amine (LCH); 
+
+  Singh, Aatish; 
+
+  Lee, Bowon (LCH); 
+
+  SMARTTechSupport (LCH); 
+
+  Rates & FI SMART Development; 
+
+  ClearingSolutions; 
+
+  Global SwapClear Client Services; 
+
+  GlobalSales; 
+
+  ForexClear Combined; 
+
+  SwapClear Risk; 
+
+  'mwalsh@leedsbuildingsociety.co.uk'; 
+
+  'jbirkett@leedsbuildingsociety.co.uk'; 
+
+  'rheywood@leedsbuildingsociety.co.uk'; 
+
+  'rwilliamson@leedsbuildingsociety.co.uk'; 
+
+  'wilson.poon@lgim.com'; 
+
+  'sensen.lin@lgim.com'; 
+
+  'eric.jones@lgima.com'; 
+
+  'florian.gaier@lindengrovecapital.com'; 
+
+  'naveen.nalla@lloydsbanking.com'; 
+
+  'paul.watson5@lloydsbanking.com'; 
+
+  'i.atanasov@lombardodier.com'; 
+
+  'e.buikstra@lombardodier.com'; 
+
+  'j.majkowski@lombardodier.com'; 
+
+  'agnieszka.czuba@mbank.pl'; 
+
+  'tomasz.jasinski@mhipoteczny.pl'; 
+
+  'piotr.kawinski@mhipoteczny.pl'; 
+
+  'justin.firth@mandg.co.uk'; 
+
+  'freddy.donkor@mandg.co.uk'; 
+
+  'andy.hills@mandg.co.uk'; 
+
+  'michael.ah-chung@mandg.co.uk'; 
+
+  'sandra.dawson@mandg.co.uk'; 
+
+  'richard.newman@mandg.co.uk'; 
+
+  'harry.baptist@mandg.co.uk'; 
+
+  'james.thompson@mandg.co.uk'; 
+
+  'morgan.stephens@mandg.co.uk'; 
+
+  'chris.thompson@macquarie.com'; 
+
+  'sarah.merette@macquarie.com'; 
+
+  'james_mcgrath@manulife.com'; 
+
+  'sweigh@marexspectron.com'; 
+
+  'matthew.lynes@aberdeen-asset.com'; 
+
+  'magdalena.zalewska@mhipoteczny.pl'; 
+
+  'fabio.boffelli@mediobanca.com'; 
+
+  'luigi.ajello@mediobanca.com'; 
+
+  'piero.bonaldo@mediobanca.it'; 
+
+  'marco.nanni@mediobanca.com'; 
+
+  'jongsung.kim@meritz.co.kr'; 
+
+  'suyong.sim@meritz.co.kr'; 
+
+  'ijchung@meritz.co.kr'; 
+
+  's.burra@bankofamerica.com'; 
+
+  'alexey.demyanov@baml.com'; 
+
+  jamespoulter; 
+
+  lucie.parsons@baml.com; 
+
+  Andrew S. Dickinson; 
+
+  'sayak.bose@bankofamerica.com'; 
+
+  'pkawade4@bloomberg.net'; 
+
+  'biplab.banerjee@bankofamerica.com'; 
+
+  'satish.kandharapu@bankofamerica.com'; 
+
+  Stephen Elliott; 
+
+  'jason.moy@mlp.com'; 
+
+  'james.atkinson@mlp.com'; 
+
+  'amit.kantaria@int.sc.mufg.jp'; 
+
+  'rowan.alston@int.sc.mufg.jp'; 
+
+  'chi-wai.tsoi@int.sc.mufg.jp'; 
+
+  'matthew.rose@int.sc.mufg.jp'; 
+
+  'neil.gibbons@int.sc.mufg.jp'; 
+
+  'faraz.ahmad@musi.com'; 
+
+  'morihiro_tsuchida@tr.mufg.jp'; 
+
+  'faraz.ahmad@mufgsecurities.com'; 
+
+  'ckinsella@us.mufg.jp'; 
+
+  'cmarinos@mizuhocap.com'; 
+
+  'brucek@mizuhocap.com'; 
+
+  'leonardo.tribelli@mizuhocap.com'; 
+
+  'noriko.seki@mizuhocap.com'; 
+
+  'seiki.takenaga@mizuhocap.com'; 
+
+  'dee.dervish@uk.mizuho-sc.com'; 
+
+  'emmanouil.fragkakis@uk.mizuho-sc.com'; 
+
+  'simon.mok@mizuhocap.com'; 
+
+  'amy.lei@mizuhocap.com'; 
+
+  'andrew.neaves@mizuhocap.com'; 
+
+  'atsushi.okumura@mizuhocap.com'; 
+
+  'christy.li@mizuhocap.com'; 
+
+  'jacqueline.bannout@mizuhocap.com'; 
+
+  'pamela@mizuhocap.com'; 
+
+  'sherry.fu@mizuhocap.com'; 
+
+  'yoshifumi.ichikawa@mizuhocap.com'; 
+
+  'dinkar.ratna@uk.mizuho-sc.com'; 
+
+  'galyna.polatayko@uk.mizuho-sc.com'; 
+
+  'jeevan.jyothyprakash@uk.mizuho-sc.com'; 
+
+  'fo-technology@nyc.mizuhocap.com'; 
+
+  'rohit.oberoi@mizuhocap.com'; 
+
+  'john.wood@mizuhocap.com'; 
+
+  'michal.kuzak@moorecap.co.uk'; 
+
+  'raj.sahrawat@mizuhocap.com'; 
+
+  'simpson@mizuhocap.com'; 
+
+  'gael.robert@uk.mizuho-sc.com'; 
+
+  'john.wood@uk.mizuho-sc.com'; 
+
+  'nobuko.adachi@mizuho-sc.com'; 
+
+  'kevin.cullity@us.mizuho-sc.com'; 
+
+  'dsh@mn.nl'; 
+
+  'iaa@mn.nl'; 
+
+  'siu@mn.nl'; 
+
+  'finbar.eggens@mn.nl'; 
+
+  'peter.brown@moorecap.com'; 
+
+  'laura.costanzo@moorecap.com'; 
+
+  'jonathan.chin@moorecap.co.uk'; 
+
+  'danny.manich@moorecap.com'; 
+
+  'bhaskar.kanduru@morganstanley.com'; 
+
+  'soumyajyoti.chowdhury@morganstanley.com'; 
+
+  'sibananda.patnaik@morganstanley.com'; 
+
+  'ayaka.kitamura@morganstanleymufg.com'; 
+
+  'aanchal.choubey@morganstanley.com'; 
+
+  'arunava.roy@morganstanley.com'; 
+
+  'carlene.mclaughlin@morganstanley.com'; 
+
+  'christopher.sparno@morganstanley.com'; 
+
+  'ciby.thomas@morganstanley.com'; 
+
+  'darrel.d'souza@morganstanley.com'; 
+
+  'diana.magala@morganstanley.com'; 
+
+  'gabor.szegedi@ms.com'; 
+
+  'geetika.chugh@morganstanley.com'; 
+
+  'harshal.samant@morganstanley.com'; 
+
+  'hima.shah@morganstanley.com'; 
+
+  'jimish.kadakia@morganstanley.com'; 
+
+  'kaori.nishio@morganstanleymufg.com'; 
+
+  'kelly.kim3@morganstanley.com'; 
+
+  'kenny.lew@morganstanley.com'; 
+
+  'kevin.byrne1@ms.com'; 
+
+  'luka.hrobat@morganstanley.com'; 
+
+  'manoj.lokrey@morganstanley.com'; 
+
+  Mengyi Zhou(Morganstanley); 
+
+  'owen.gruenberg@morganstanley.com'; 
+
+  'paddy.ng@ms.com'; 
+
+  'paul.wang@morganstanley.com'; 
+
+  'rayaan.ebrahim@morganstanley.com'; 
+
+  'sandhya.subramani@morganstanley.com'; 
+
+  'saurabh.gupta@morganstanley.com'; 
+
+  'shikhar.sinha@morganstanley.com'; 
+
+  'shivprasad.padmashali@morganstanley.com'; 
+
+  'tristan.yonace@morganstanley.com'; 
+
+  'vindrani.singh@morganstanley.com'; 
+
+  'zoltan.nemeth@morganstanley.com'; 
+
+  'mady.kerbel@morganstanley.com'; 
+
+  'geetikac@morganstanley.com'; 
+
+  'sibananda.patnaik@morganstanley.com'; 
+
+  'shikhar.sinha@morganstanley.com'; 
+
+  'chandan.patnaik@morganstanley.com'; 
+
+  'alexandre.de.loecker@morganstanley.com'; 
+
+  Viktor Vadasz; 
+
+  'xiaofen.huang@morganstanley.com'; 
+
+  'sridhar.nonabur.srinivasamurthy@morganstanley.com'; 
+
+  'diana.chis@morganstanley.com'; 
+
+  'jamie.baxter@morganstanley.com'; 
+
+  'miyako.matsuzaki@morganstanley.com'; 
+
+  'william.britton@morganstanley.com'; 
+
+  Norman.dillon; 
+
+  'david.ruthven@ms.com'; 
+
+  Erin.E.Johnson@MorganStanley.com; 
+
+  'garrett.wilson@morganstanley.com'; 
+
+  'jacky.wu@morganstanley.com'; 
+
+  'shahil.karamchandani@morganstanley.com'; 
+
+  'elisa.celotto@mpscapitalservices.it'; 
+
+  'eros.renzetti@mpscs.it'; 
+
+  'martina.tognaccini@mpscapitalservices.it'; 
+
+  'marco.nicoletti@mpscapitalservices.it'; 
+
+  'chi-wai.tsoi@mufgsecurities.com'; 
+
+  'anthony.locke@mufgsecurities.com'; 
+
+  'james.martin@mufgsecurities.com'; 
+
+  'elena.gould@mufgsecurities.com'; 
+
+  'tbraun@meag.com'; 
+
+  'juergen.grimberger@naspa.de'; 
+
+  'kweiki.kwapong@eu.nabgroup.com'; 
+
+  Markpriestley; 
+
+  'hely.lim@nab.com.au'; 
+
+  'wade.goodlet@eu.nabgroup.com'; 
+
+  'david.o'meara@eu.nabgroup.com'; 
+
+  'ramesh.pillai@nab.com.au'; 
+
+  'ramesh.ramasamy@nab.com.au'; 
+
+  'benoit.fortin@bnc.ca'; 
+
+  'driss.badiane@bnc.ca'; 
+
+  'jerome.massonroy@bnc.ca'; 
+
+  'vogiagi.maria@nbg.gr'; 
+
+  'astrat@nbg.gr'; 
+
+  'gourgourakis.n@nbg.gr'; 
+
+  'petra.van.dongen@nn.nl'; 
+
+  'dirk.bekkers@nn.nl'; 
+
+  'gerrit.jan.brouwer@nn.nl'; 
+
+  'rolf-pieter.ter.horst@nn.nl'; 
+
+  'stefana.georgeta.gotea@ing.nl'; 
+
+  'xavier.bouthors@nnip.com'; 
+
+  'aad.de.jong@nnip.com'; 
+
+  'rutger.olthof@nnip.com'; 
+
+  'deppe.tjandra@nnip.com'; 
+
+  'guillaume.janssen@nnip.com'; 
+
+  'peter.wong1@nationwide.co.uk'; 
+
+  'amy.towill@nationwide.co.uk'; 
+
+  'craig.martin@nationwide.co.uk'; 
+
+  'james.brewer@nationwide.co.uk'; 
+
+  'jamie.park@nationwide.co.uk'; 
+
+  julien.mulcey@natixis.com; 
+
+  'guillaume.henry@natixis.com'; 
+
+  'beatrice.mabille@natixis.com'; 
+
+  laurent.collet; 
+
+  'jeanpatrick.balbo-ext@natixis.com'; 
+
+  'isabelle.sanson@am.natixis.com'; 
+
+  'guillaume.henry@natixis.com'; 
+
+  'bradley.mcnee@natwestmarkets.com'; 
+
+  'oleh.korol@rbs.com'; 
+
+  'joso.saric@brummer.se'; 
+
+  'hyim@nyl.com'; 
+
+  'chris.bainbridge@newedge.com'; 
+
+  'stephen.andrease@newedge.com'; 
+
+  'david.duggan@newedge.com'; 
+
+  'bram.schoonewil@nibc.com'; 
+
+  'arjan.van.der.padt@nibc.com'; 
+
+  'colby.geringer@nisa.com'; 
+
+  'kristen.guehne@nisa.com'; 
+
+  'chester.chan@nomura.com'; 
+
+  'devansh.udeshi@nomura.com'; 
+
+  'felix.sutiono@nomura.com'; 
+
+  'pranay.chalke@nomura.com'; 
+
+  'radheya.supnekar@nomura.com'; 
+
+  'subatta.sawant@nomura.com'; 
+
+  'midori.miyasaka@nomura-asset.co.uk'; 
+
+  magnus.lindahl@nomura.com; 
+
+  'harsh.mayani@nomura.com'; 
+
+  'junji.kurabayashi@nomura.com'; 
+
+  'mitsuhiro.sato@nomura.com'; 
+
+  'marc.schwabe@nordlb.de'; 
+
+  JanWagner; 
+
+  'benjamin.lachmann@nordlb.de'; 
+
+  'sandra.sobetzko@nordlb.de'; 
+
+  'sok.kheng.kim@nordlb.de'; 
+
+  'heike-ellen.jahn@nordlb.de'; 
+
+  'melanie.pleiss@nordlb.de'; 
+
+  'hannes.mesloh@nordlb.de'; 
+
+  'stinus.benjamin.nielsen@nordea.com'; 
+
+  'yacinelemkak@nordea.com'; 
+
+  tomas grill; 
+
+  'mads.lind.mulvad@nordea.com'; 
+
+  'kasper.borenhoff@nordea.com'; 
+
+  'margarete.hadrys@nrwbank.de'; 
+
+  'oliver.winkelnkemper@nrwbank.de'; 
+
+  'andreas.mausberg@nrwbank.de'; 
+
+  'jan.rattay@nrwbank.de'; 
+
+  'dirk.wasem@nrwbank.de'; 
+
+  'markus.rittscher@nrwbank.de'; 
+
+  'martina.reiss@nrwbank.de'; 
+
+  'tom.wanders@bngbank.nl'; 
+
+  'bianca.ydema@bngbank.nl'; 
+
+  'robbert.stout@bngbank.nl'; 
+
+  'keshia.engels@bngbank.nl'; 
+
+  'sander.bosman@nwbbank.com'; 
+
+  'erica.delis@nwbbank.com'; 
+
+  'mark.vandoorn@nwbbank.com'; 
+
+  'kke@nykredit.dk'; 
+
+  'phobin@ofi-am.fr'; 
+
+  'anthony.elms@omglobalinvestors.com'; 
+
+  'ricky.maloney@omglobalinvestors.com'; 
+
+  'jamie_sim@otpp.com'; 
+
+  'sopheap_lim@otpp.com'; 
+
+  'kirk@opengamma.com'; 
+
+  'barabasz@otpbank.hu'; 
+
+  'boyd.ryan@pennmutualam.com'; 
+
+  'swarr.john@pennmutualam.com'; 
+
+  'austen@pensioncorporation.com'; 
+
+  'jadva@pensioncorporation.com'; 
+
+  'akuom@pensioncorporation.com'; 
+
+  'mohan@pensioncorporation.com'; 
+
+  'burrowsa@pensioncorporation.com'; 
+
+  'dl-it-support@pensioncorporation.com'; 
+
+  'tkg@pfa.dk'; 
+
+  'joris.schoenmakers@pggm.nl'; 
+
+  'michel.braber@pggm.nl'; 
+
+  'eric.ilardi@pimco.com'; 
+
+  'alan.stewart@prcm.com'; 
+
+  'carlee.leraris@prcm.com'; 
+
+  'wuyangdong915@pingan.com.cn'; 
+
+  'anna.lewczuk.2@pkobp.pl'; 
+
+  'anna.lewczuk@pkobp.pl'; 
+
+  'billy.honovich@point72.com'; 
+
+  'tomasz.szela@pkobp.pl'; 
+
+  'ramon.celi@procredit-group.com'; 
+
+  'jeffrey.wood@providenceinvestment.com'; 
+
+  'edward.watson@providenceinvestment.com'; 
+
+  'fhaidar@investpsp.ca'; 
+
+  'tcarreaulefebvre@investpsp.ca'; 
+
+  'ryan_cottreau@putnam.com'; 
+
+  'stephen_king@putnam.com'; 
+
+  'stephen_sweeney@putnam.com'; 
+
+  'sunitha_madhavaram@putnam.com'; 
+
+  'ddavenport@qfrcapital.com'; 
+
+  'm.watts@qic.com'; 
+
+  'ops@quantedge.com'; 
+
+  Emma Stefanovska; 
+
+  'patrick.albert@rabobank.com'; 
+
+  'mark.brons@rabobank.com'; 
+
+  'gerrit.van.der.veen@rabobank.com'; 
+
+  'debbie.smail@rabobank.com'; 
+
+  'jasper.van.der.kroft@rabobank.com'; 
+
+  'jody.buckley@rabobank.com'; 
+
+  'nicholas.tresilian@rabobank.com'; 
+
+  'shahid.mahmood@rabobank.com'; 
+
+  Egbert Bosma; 
+
+  'bernhard.beran@rbinternational.com'; 
+
+  'matthias.stern@rlb-stmk.raiffeisen.at'; 
+
+  'peter.krierer@rbgk.raiffeisen.at'; 
+
+  'michael.schuh@rlb-stmk.raiffeisen.at'; 
+
+  'holzer@rlbooe.at'; 
+
+  'lukas.brandtner@rlbooe.at'; 
+
+  'm.palmi@rlbooe.at'; 
+
+  'e.wurm@rlbooe.at'; 
+
+  'hunger@rlbooe.at'; 
+
+  'kliemstein@rlbooe.at'; 
+
+  'obermayr@rlbooe.at'; 
+
+  'robin.leitner@rlbooe.at'; 
+
+  'clemens.saurer@rlb-tirol.at'; 
+
+  'gerald.beer@rlb-tirol.at'; 
+
+  'martin.goreis@rlb-tirol.at'; 
+
+  'andreas.gosch@raiba.at'; 
+
+  'robin.albel@raiba.at'; 
+
+  'philipp.wilhelmi@raiba.at'; 
+
+  'florian.pfelzer@raiba.at'; 
+
+  'reinhard.michelag@rvs.at'; 
+
+  'christopher.baasch@rmb.co.za'; 
+
+  'gareth.schumann@rmb.co.za'; 
+
+  'disha.rohatgi@rmb.co.za'; 
+
+  'josie.evans@rbccm.com'; 
+
+  'purav.pandit@rbc.com'; 
+
+  'badarinath.vinjamuri@rbccm.com'; 
+
+  'bennett.ngai@rbccm.com'; 
+
+  'thaksena.rangarajan@rbccm.com'; 
+
+  'shalini.madan@rbccm.com'; 
+
+  richard.wilkinson@rbccm.com (External); 
+
+  'sunny.choi@rbccm.com'; 
+
+  John cooper; 
+
+  'nick.huynh@rbccm.com'; 
+
+  'richard.paul@rbs.com'; 
+
+  'paul.welsby@rbs.com'; 
+
+  'holly.steward@riverandmercantile.com'; 
+
+  'jon.wilson@riverandmercantile.com'; 
+
+  'mark.davies@riverandmercantile.com'; 
+
+  'graham.wardle@riverandmercantile.com'; 
+
+  'marwan.moubachir@rokoscapital.com'; 
+
+  'daniel.kovi@rokoscapital.com'; 
+
+  'derek.obrien@rokoscapital.com'; 
+
+  'justine.archer@rothesaylife.com'; 
+
+  'cilise.legendre@rbccm.com'; 
+
+  'jeremy.walker@rbccm.com'; 
+
+  'maria.bochelyuk@rbccm.com'; 
+
+  'matt.davies@rlam.co.uk'; 
+
+  'adeline.derain@rlam.co.uk'; 
+
+  'thomas.gander@rlam.co.uk'; 
+
+  'paul.rogers@rlam.co.uk'; 
+
+  'jchu@rpia.ca'; 
+
+  'acase@rubicon-uk.com'; 
+
+  'johan.umefjord@seb.se'; 
+
+  'bernd.luxenburger@saarlb.de'; 
+
+  'omar.al-abdulkader@samba.com'; 
+
+  'ali.al-hawas@samba.com'; 
+
+  'sirpa.yrjonmaki@sampo.fi'; 
+
+  'laura.liljestrom@sampo.fi'; 
+
+  'alexander.antas@sampo.fi'; 
+
+  'alexander.gallotti@sampo.fi'; 
+
+  'ville.keranen@sampo.fi'; 
+
+  'abdul.subhan@produban.co.uk'; 
+
+  'gmancha@gruposantander.com'; 
+
+  'greg.rickards@santandergbm.com'; 
+
+  'adam.anthony@santandergcb.com'; 
+
+  'andy.wrench@produban.co.uk'; 
+
+  'tom.bristow@santandergcb.com'; 
+
+  'paul.sutherland@santandergcb.com'; 
+
+  'francesca.fiorilli@santandergbm.com'; 
+
+  'igor_goncharenko@sberbank-cib.ru'; 
+
+  'jon.chan@scotiabank.com'; 
+
+  'thomas.chapman@scotiabank.com'; 
+
+  'jason.landry@scotiabank.com'; 
+
+  'kevin.broughton@scotiabank.com'; 
+
+  'marie-claude.boisvert@scotiabank.com'; 
+
+  'paula.polverelli@scotiabank.com'; 
+
+  'william.frost@scotiabank.com'; 
+
+  'david.lyback@seb.se'; 
+
+  'martin.jatko@seb.se'; 
+
+  'parth@secor-am.com'; 
+
+  'fyu@secor-am.com'; 
+
+  'dan@secor-am.com'; 
+
+  'richard.thompson@sernovafinancial.com'; 
+
+  'ian.holmes@sernovafinancial.com'; 
+
+  'kilian.butler@sernovafinancial.com'; 
+
+  'patrick.sick@sfil.fr'; 
+
+  'olivier.eudes@sfil.fr'; 
+
+  'isabel.henao@sfil.fr'; 
+
+  'ori.dahan@sfil.fr'; 
+
+  'catherine.menard@sfil.fr'; 
+
+  'anne.ducreux@sfil.fr'; 
+
+  'matthieu.wacksmann-diligenti@sfil.fr'; 
+
+  'sarah.fedon@sfil.fr'; 
+
+  'sylvain.meunier@sfil.fr'; 
+
+  'steve.rand@newedge.com'; 
+
+  'travis.pastiak@sgcib.com'; 
+
+  'rajesh.acharya@sgcib.com'; 
+
+  'sarmad.habib@shell.com'; 
+
+  'marieke.notten@shell.com'; 
+
+  'marcel.treurniet@shell.com'; 
+
+  'c.bolhuis@shell.com'; 
+
+  'haron.salem@shell.com'; 
+
+  'ed.groenintwoud@shell.com'; 
+
+  'sergey_kim@sberbank-cib.ru'; 
+
+  'sburby@silverridgeam.com'; 
+
+  'linus.singh@seb.se'; 
+
+  'karl-johan.eriksson@seb.se'; 
+
+  'marcus.kinch@seb.se'; 
+
+  'anders.bea@seb.se'; 
+
+  'cristina.chirlici@seb.se'; 
+
+  'nho@smbc-cm.com'; 
+
+  'yujiro_kanazawa@sg.smbc.co.jp'; 
+
+  'asacco@smbc-cm.com'; 
+
+  'bburke@smbc-cm.com'; 
+
+  'merijn.vanmiltenburg@snsams.nl'; 
+
+  'philip.tooke@snowstream.com'; 
+
+  'paul.degraaf@actiam.nl'; 
+
+  'sandra.tapu-ext@sgcib.com'; 
+
+  'jamie.gavin@sgcib.com'; 
+
+  'jae-hyun.park@sgcib.com'; 
+
+  'sophia.lo@sgcib.com'; 
+
+  marco mogini; 
+
+  'gauthier.meyer@sgcib.com'; 
+
+  'mathieu.da-cruz@sgcib.com'; 
+
+  'tim.lam@sgcib.com'; 
+
+  'saul.shevlin@sgcib.com'; 
+
+  'erwin-jd.chauveau@sgcib.com'; 
+
+  'frederic.lecoy-ext@sgcib.com'; 
+
+  'morgane.hunsinger-ext@sgcib.com'; 
+
+  'james.bennett@sgcib.com'; 
+
+  'andrew.salter@sgcib.com'; 
+
+  John Stein@newedge.com; 
+
+  'jamie.gavin@newedge.com'; 
+
+  'amed.mkada@newedge.com'; 
+
+  'vladimir.caille-ext@sgcib.com'; 
+
+  'benoit.freyssinet@sgcib.com'; 
+
+  'diana.chung@sgcib.com'; 
+
+  'francois.perez-ext@sgcib.com'; 
+
+  'how-ting-cherry.chu@sgcib.com'; 
+
+  'julian.bufton@sgcib.com'; 
+
+  'keith.barber@sgcib.com'; 
+
+  'mohamed.fofana-ext@sgcib.com'; 
+
+  'sihan.you@sgcib.com'; 
+
+  'vincent.decaudaveine@sgcib.com'; 
+
+  'vivian.deng@sgcib.com'; 
+
+  'tasos.christidis@sgcib.com'; 
+
+  'benjamin.sackey@sgcib.com'; 
+
+  'simon.lautier-ext@sgcib.com'; 
+
+  'jiarui.fan@sgcib.com'; 
+
+  'nicolas.pralong@sgcib.com'; 
+
+  'ernest.kong@sgcib.com'; 
+
+  'alice.lee@sgcib.com'; 
+
+  'stian.thormodsaeter@sr-bank.no'; 
+
+  'tim.osadnik@sparkasse-koelnbonn.de'; 
+
+  'sara.manasjan@sparkassenversicherung.de'; 
+
+  'matt.turner@sc.com'; 
+
+  'samuel.darer@sc.com'; 
+
+  James.Riordan@sc.com; 
+
+  'jessie.ng@sc.com'; 
+
+  'gavin.rogers@sc.com'; 
+
+  alex.gee@sc.com; 
+
+  'luke.brereton@sc.com'; 
+
+  'paul.chia@sc.com'; 
+
+  rehana.samuel@sc.com; 
+
+  'keith.yong@sc.com'; 
+
+  'sherrie.low@sc.com'; 
+
+  'elainecl.lee@sc.com'; 
+
+  'weiying.ho@sc.com'; 
+
+  'matt.turner@sc.com'; 
+
+  'alexei.kondratyev@sc.com'; 
+
+  'angie.mw.guo@sc.com'; 
+
+  'kevinkw.leung@sc.com'; 
+
+  'pruvil.patel@sc.com'; 
+
+  'ravi-kumar.singh@sc.com'; 
+
+  'stephanie.ng@sc.com'; 
+
+  'dan.rose@sc.com'; 
+
+  'hui.zhang@sc.com'; 
+
+  'irisxiaonan.geng@sc.com'; 
+
+  'xu.yaowei@sc.com'; 
+
+  'andrew.wing@sc.com'; 
+
+  'sam.phillips@sc.com'; 
+
+  'stuart.kidd@sc.com'; 
+
+  'john_lund@standardlife.com'; 
+
+  'owen_mccrossan@standardlife.com'; 
+
+  'bernerd_harison@standardlife.com'; 
+
+  'nicholas_hutchings@standardlife.com'; 
+
+  'evelyn.agbenu.sbiuk@statebank.com'; 
+
+  'paul_ramsay@ssga.com'; 
+
+  'keith_flynn@ssga.com'; 
+
+  'guido.vessaz@pfing.nl'; 
+
+  'yasutada_suzuki@sg.smbc.co.jp'; 
+
+  'saito_yuuji@smtb.jp'; 
+
+  'hamanaka_satoshi@smtb.jp'; 
+
+  'mochida_takuya@smtb.jp'; 
+
+  'okumoto_takahiro@smtb.jp'; 
+
+  'nonaka_takahiro@smtb.jp'; 
+
+  'seki_kentaro@smtb.jp'; 
+
+  'aleksandar.popic@sunlife.com'; 
+
+  'josh.jones@sig.com'; 
+
+  'mani@swapshub.com'; 
+
+  'greger.sundqvist@swedbank.se'; 
+
+  'jovita.poskute@swedbank.lt'; 
+
+  'per.von.rosen@swedbank.com'; 
+
+  'rita.dijokaite@swedbank.lt'; 
+
+  'orjan.eriksson@swedbank.se'; 
+
+  'niklas.larsson@swedbank.se'; 
+
+  'jacob.gyllenbring@swedbank.se'; 
+
+  'carl.pettersson@swedbank.se'; 
+
+  'adomas.pakutinskas@swedbank.lt'; 
+
+  'magnus.olsson@swedbank.se'; 
+
+  'alexander.bjorkman@swedbank.se'; 
+
+  'andrius.pilvelis@swedbank.lt'; 
+
+  'arvydas.marcinkevicius@swedbank.lt'; 
+
+  'darius.salomskas@swedbank.lt'; 
+
+  'mindaugas.gagilas@swedbank.lt'; 
+
+  'thomas.wares@swedbank.se'; 
+
+  'vytautas.verbus@swedbank.lt'; 
+
+  'johan.thorselius@sek.se'; 
+
+  'juliane.rossmann@swisslife.de'; 
+
+  'gabriele.huebner@swisslife.de'; 
+
+  'barbara.volk@swisslife.de'; 
+
+  'frank.nieresel@swisslife.de'; 
+
+  'rainer.schmidt@swissilife.de'; 
+
+  'cornelia.brandmeir@swisslife.de'; 
+
+  'rainer.schmidt@swisslife.de'; 
+
+  'bosborn@symmetryinvestments.com'; 
+
+  'rhulme@symmetryinvestments.com'; 
+
+  'nicholas.howland@systematica.com'; 
+
+  'andi.beqiraj@tdsecurities.com'; 
+
+  'cecelia.sun@tdsecurities.com'; 
+
+  'david.king@tdsecurities.com'; 
+
+  'hamza.arabi@tdsecurities.com'; 
+
+  'jonathan.kassies@tdsecurities.com'; 
+
+  'will.o'connor@tdsecurities.com'; 
+
+  'nurin.merchant@tdsecurities.com'; 
+
+  'darren.curran@tdsecurities.com'; 
+
+  'rohit.goyal@tdsecurities.com'; 
+
+  'jsong@tenaroncapital.com'; 
+
+  'rhoule@tenaroncapital.com'; 
+
+  'mpaschover@tenaroncapital.com'; 
+
+  'dganeshan@tenaroncapital.com'; 
+
+  'lindsay.yee@bnymellon.com'; 
+
+  'omar.becerril@scotiabank.com'; 
+
+  kshama.kothare@scotiabank.com; 
+
+  'alexandre.chretien@scotiabank.com'; 
+
+  'bin.guo@scotiabank.com'; 
+
+  'kwebb@us.mufg.jp'; 
+
+  'andrew@barnegatfund.com'; 
+
+  'mark.naisbitt@hsbc.com.hk'; 
+
+  'minddycheung@hsbc.com.hk'; 
+
+  'changseok.kim@kdb.co.kr'; 
+
+  'larchs2@kdb.co.kr'; 
+
+  Alex PINNOCK; 
+
+  'kumayl.nazerali@rbs.com'; 
+
+  'kaveeta.sonigra@rbs.com'; 
+
+  'haseena.ahmadi@rbs.com'; 
+
+  'ivy.mok@rbs.com'; 
+
+  'karl.elliot@rbs.com'; 
+
+  'marcin.karkut@natwestmarkets.com'; 
+
+  'matt.frost@rbs.com'; 
+
+  'sarah.mcgowan@rbs.com'; 
+
+  'thianluh.tan@rbs.com'; 
+
+  'zhiwenwinston.liang@rbs.com'; 
+
+  'paul.welsby@rbs.com'; 
+
+  'serenelingling.tan@rbs.com'; 
+
+  'philip.fernandes@rbs.com'; 
+
+  'marta.bogucka@rbs.com'; 
+
+  'adnaneafelkay@sabb.com'; 
+
+  'blair.hobbs@tdsecurities.com'; 
+
+  'justin.lau@tdsecurities.com'; 
+
+  'benjamin.mercier@tdsecurities.com'; 
+
+  'bruce.matsubayashi@tdsecurities.com'; 
+
+  'jason.foster@tdsecurities.com'; 
+
+  'david.giordano@tdsecurities.com'; 
+
+  'brian.shupe@td.com'; 
+
+  'sundeep.madipadiga@td.com'; 
+
+  'john@watermarkgroup.com'; 
+
+  'malexander@thielmacro.com'; 
+
+  'dkuang@thielmacro.com'; 
+
+  'kliang@thielmacro.com'; 
+
+  'mdias@thielmacro.com'; 
+
+  'tim.heyer@aufbaubank.de'; 
+
+  'aschmutter@tildenparkcapital.com'; 
+
+  'jteska@tildenparkcapital.com'; 
+
+  'spijkman.p@tkpinvestments.com'; 
+
+  'charlie.kirby@tudor.com'; 
+
+  'jonathan.boym@tudor.com'; 
+
+  'mohamad.akef@tudor.com'; 
+
+  'michael.bicknell@tudor.com'; 
+
+  'christopher.cardillo@tudor.com'; 
+
+  'ayesha.afghan@tudor.com'; 
+
+  'josh.zhou@tudor.com'; 
+
+  'craig.nadel@twosigma.com'; 
+
+  'scott.burns@twosigma.com'; 
+
+  'christopher.glier@twosigma.com'; 
+
+  'james.corley@twosigma.com'; 
+
+  'marco.cerrato@ubibanca.it'; 
+
+  'claudio.soranzo@ubibanca.it'; 
+
+  'fausto.camia@ubibanca.it'; 
+
+  'riccardo.zucchini@ubibanca.it'; 
+
+  'calogerina.burrogano@ubibanca.it'; 
+
+  'dee.dervish@ubs.com'; 
+
+  'alvin.gue@ubs.com'; 
+
+  'brett.zielsdorf@ubs.com'; 
+
+  'christopher.li@ubs.com'; 
+
+  'daniel.upbin@ubs.com'; 
+
+  'david.hooker@ubs.com'; 
+
+  'keith.kenston@ubs.com'; 
+
+  'krishna-chaitanya.arza@ubs.com'; 
+
+  'lily-a.huang@ubs.com'; 
+
+  'marco.preiss@ubs.com'; 
+
+  'matthew.vo@ubs.com'; 
+
+  'naomi.milner@ubs.com'; 
+
+  'sudheer.kumar-n@ubs.com'; 
+
+  'vilhelm.nilsson@ubs.com'; 
+
+  'adam.daniel@ubs.com'; 
+
+  'dimple.shah@ubs.com'; 
+
+  'han-seng.tan@ubs.com'; 
+
+  'lukas.kuenstl@ubs.com'; 
+
+  'luke.southwell@ubs.com'; 
+
+  'musawer.nathu@ubs.com'; 
+
+  'deepti.rawat@ubs.com'; 
+
+  'abhilasha.sinha@ubs.com'; 
+
+  'christopher.aspinall@ubs.com'; 
+
+  'naomi.milner@ubs.com'; 
+
+  'amit-a.gupta@ubs.com'; 
+
+  milton-j.brown@ubs.com; 
+
+  'michaela.haider@unicredit.de'; 
+
+  'sarahdeborah.widderich@unicredit.de'; 
+
+  'alexandra.horak@unicreditgroup.at'; 
+
+  'margit.michalka@unicreditgroup.at'; 
+
+  'eva.buchsbaum@unicreditgroup.at'; 
+
+  'christina.stranimaier@unicreditgroup.at'; 
+
+  'viktoria.bezwoda@unicreditgroup.at'; 
+
+  'milos.lakic@unicreditgroup.at'; 
+
+  'krisztina.magyar@unicreditgroup.at'; 
+
+  'mattia.verrina@unicredit.eu'; 
+
+  'raffaello.soardi@ubiss.it'; 
+
+  'harmanpreet.singh@unilever.com'; 
+
+  'tv@vatnecapital.com'; 
+
+  'jt@vatnecapital.com'; 
+
+  'davide.devidi@venetobanca.it'; 
+
+  'roland.zeller@vkb-bank.at'; 
+
+  'michael.koller@volksbankwien.at'; 
+
+  'bernhard.laengle@hypovbg.at'; 
+
+  'drherman@wellington.com'; 
+
+  'agpuduseril@consultantemail.com'; 
+
+  'cskamm@wellington.com'; 
+
+  'kurt.jacobs@wellsfargo.com'; 
+
+  'dennis.g.hartnett@wellsfargo.com'; 
+
+  'charles.sansom@wellsfargo.com'; 
+
+  'dennis.hutchinson@wellsfargo.com'; 
+
+  Timothy Delaney; 
+
+  'michael.c.miller@wellsfargo.com'; 
+
+  'jillian.l.buckingham@wellsfargo.com'; 
+
+  'gautam.p.gururaj@wellsfargo.com'; 
+
+  'matthew.desantis@wellsfargo.com'; 
+
+  'panos.xythalis@wellsfargo.com'; 
+
+  'troy.powers@wellsfargo.com'; 
+
+  'fayez.mbang@wellsfargo.com'; 
+
+  'jon.umpleby@wellsfargo.com'; 
+
+  'scrosbie@westpac.com.au'; 
+
+  'malcolmgordon@westpac.com.au'; 
+
+  'cstratton@westpac.com.au'; 
+
+  'mcorley@whiteboxadvisors.com'; 
+
+  'kainaz.gandhi@yesbank.in'; 
+
+  'vinutha.dsouza@yesbank.in'; 
+
+  'reto.ziltener@zkb.ch'; 
+
+  pascal anderegg; 
+
+  'harald.pfeiffer@zkb.ch'; 
+
+  'ana.casellas.gonzalez@zurich.com'; 
+
+  'MDDirect@lch.com'; 
+
+  Project Management CoP (LCH); 
+
+  Smartsupport (LCH); 
+
+  'jurjen.meijer@nl.abnamro.com'; 
+
+  'francois.cote@santandergbm.com'; 
+
+  'jonathan.stares@santandergbm.com'; 
+
+  katia.pellegrini@bancaimi.com; 
+
+  'preben.hansen@anz.com'; 
+
+  ncda@gruposantander.com; 
+
+  'ccabrera@gruposantander.com'; 
+
+  'soportefront@gruposantander.com'; 
+
+  'silvia.ramolfo@bancaimi.com'; 
+
+  'pramada.sharma@bankofamerica.com'; 
+
+  'anil.lall@baml.com'; 
+
+  'r.conklin@baml.com'; 
+
+  'gloria.setordjie@uk.bnpparibas.com'; 
+
+  'regina.milanov@aig.com'; 
+
+  'jennifer.nicholson@aig.com'; 
+
+  'cmenassa@acpension.com'; 
+
+  'ldk@atp.dk'; 
+
+  Dmartin; 
+
+  'erez.ferraro@bankleumi.co.il'; 
+
+  'paul.genereux@aig.com'; 
+
+  'cedric.petros@alpstonecapital.com'; 
+
+  'simon.cooney@aig.com'; 
+
+  'andrew.van.eesteren@achmea.nl'; 
+
+  'karsten.mergen@bwva.de'; 
+
+  'guenter.mayer@bwva.de'; 
+
+  'd.hergenroeder@aab.de'; 
+
+  'douglas.siu.contractor@axa-im.com'; 
+
+  'gerhard.odaker@sparkasse-ooe.at'; 
+
+  'ujaved@aegon.nl'; 
+
+  'npalekar@marinerconcordia.com'; 
+
+  'ademers@spmllc.com'; 
+
+  'nithya.ganesan@ampcapital.com'; 
+
+  'joanne.laguna@ampcapital.com'; 
+
+  'cinzia.comi@mps.it'; 
+
+  'fcourthial@lordabbett.com'; 
+
+  'support@opengamma.com'; 
+
+  Rates & FI SMART Development; 
+
+  ClearingSolutions; 
+
+  Global SwapClear Client Services; 
+
+  GlobalSales; 
+
+  SwapClear Risk; 
+
+  'hlipman@bloomberg.net'; 
+
+  'drao@bloomberg.net'; 
+
+  'abhattachar9@bloomberg.net'; 
